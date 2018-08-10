@@ -12,8 +12,8 @@
 bundle show minima
 ```
 
-xx
+Server locally
 
 ```yaml
-xx
+jekyll serve --config _config.yml,_config_dev.yml
 ```
