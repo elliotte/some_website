@@ -4,8 +4,6 @@
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/screenshot.png)
-
 ## Show Theme
 
 ```ruby
@@ -17,3 +15,5 @@ Server locally
 ```yaml
 jekyll serve --config _config.yml,_config_dev.yml
 ```
+
+[Test Jekyll](https://gist.github.com/thbar/10be2ea924b81f78d24ab800461bfee3)

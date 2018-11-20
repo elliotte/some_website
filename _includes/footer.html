@@ -1,0 +1,57 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1" id="quote-section">
+        
+        <!-- insert quote mechanism here -->
+
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+<script>
+
+
+var quotes = [
+  "Quote 1",
+  "Quote 2"
+]
+// var arrayLength = quotes.length;
+// for (var i = 0; i < arrayLength; i++) {
+//     console.log(quotes[i]);
+//     var div = document.getElementById('quote-section');
+//     div.innerHTML += quotes[i];
+//     //Do something
+// }
+
+// var div = document.getElementById('quote-section');
+
+
+// let unshuffled = ['hello', 'a', 't', 'q', 1, 2, 3, {cats: true}]
+
+// let shuffled = quotes
+//   .map((a) => ({sort: Math.random(), value: a}))
+//   .sort((a, b) => a.sort - b.sort)
+//   .map((a) => div.innerHTML += a.value)
+
+
+
+
+
+</script>
