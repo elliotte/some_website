@@ -6,9 +6,26 @@ categories: ruby code software dev web programming
 vid_link: false
 ---
 
-I use [Ruby] primarily for writing web applications, but Ruby’s rich history as a scripting language means that there’s lots of functionality I don’t use every day, and probably lots that I don’t even know existed.
+Oh use Net::POP3! for emails instead of Net::HTTP.
 
-[Ruby]: //medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908
+`
+inbox = Net::POP3.new('pop.gmail.com')
+`
+
+`
+inbox.start('your-email-here@gmail.com', 'supersecret')
+`
+
+`
+inbox.each_mail { |m| puts m.pop.split("\n").grep(/Subject/) }
+pop.finish
+`
+
+Article [here]
+
+"I use Ruby primarily for writing web applications, but Ruby’s rich history as a scripting language means that there’s lots of functionality I don’t use every day, and probably lots that I don’t even know existed."
+
+[here]: //medium.com/@mctaylorpants/a-weird-and-wonderful-trip-through-rubys-standard-library-762ddcf7a908
 
 
 
