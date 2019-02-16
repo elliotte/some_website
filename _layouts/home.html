@@ -20,6 +20,7 @@ layout: default
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <br>
           {% for cat in post.categories %}
             <span class="cat-tags">{{ cat }}</span>
           {% endfor %}

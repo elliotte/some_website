@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Top JavaScript Trends To Look For In 2019"
+date:   2019-01-13
+categories: code javascript web programming software
+vid_link: false
+---
+
+GraphQL, Vus.js and Angular 7 are the main bites IMO, post [here]
+
+[here]: //hackernoon.com/which-top-javascript-trends-to-look-in-2019-528072bf0082
