@@ -6,9 +6,9 @@ categories: code software web-development rails ruby aws
 vid_link: false
 ---
 
-[1] Excellent tutorial on new age architecture.  
+Excellent tutorial on new age architecture.  [link]
 
 This post is part of our complete guide: How to Build a Serverless Application on AWS using Ruby
 
-[1]: //drivy.engineering/rails-6-unnoticed-features/
+[link]: //drivy.engineering/rails-6-unnoticed-features/
 

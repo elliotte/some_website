@@ -6,7 +6,7 @@ categories: code software
 vid_link: false
 ---
 
-[1] easy and effective solution is to have your web scraping scripts automatically email their results to you (or anyone else thats interested).
+Easy and effective solution is to have your web scraping scripts automatically email their results to you (or anyone else thats interested). [link]
 
-[1]: //towardsdatascience.com/setting-up-email-updates-for-your-scraper-using-python-and-a-gmail-account-4e678be99ed5
+[link]: //towardsdatascience.com/setting-up-email-updates-for-your-scraper-using-python-and-a-gmail-account-4e678be99ed5
 
