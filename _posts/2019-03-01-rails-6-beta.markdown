@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Rails 6 unnoticed features"
+date:   2019-03-01 16:24:28 +0100
+categories: code software web-development rails ruby
+vid_link: false
+---
+
+[1] Cool summary on new features and well explained.
+
+[1]: //drivy.engineering/rails-6-unnoticed-features/
+
