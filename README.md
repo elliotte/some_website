@@ -16,4 +16,10 @@ Server locally
 jekyll serve --config _config.yml,_config_dev.yml
 ```
 
+## github domain
+
+```ruby
+https://elliotte.github.io/some_website/
+```
+
 [Test Jekyll](https://gist.github.com/thbar/10be2ea924b81f78d24ab800461bfee3)
