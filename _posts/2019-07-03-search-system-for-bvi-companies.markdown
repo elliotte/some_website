@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Origin of Banking"
+title:  "A database of 400K rgistered British Virign Islands companies"
 date:   2019-07-03
-categories: business banking money history
+categories: business banking money economics tax
 vid_link: false
 ---
 
