@@ -6,7 +6,7 @@ categories:  code rails software programming
 vid_link: false
 ---
 
-Cool simple article on build a simple API using Sinatra and Ruby [1]. 
+A nice and clean article on building a simple API using Sinatra and Ruby [1]. 
 
 Quick tune your Javascript skills [2].
 
