@@ -2,7 +2,7 @@
 layout: post
 title:  "The climate apocalypse is coming - and bloody hell.."
 date:   2019-09-09
-categories:  business economics climate-change politics
+categories:  business economics climate-change politics earth
 vid_link: false
 ---
 
