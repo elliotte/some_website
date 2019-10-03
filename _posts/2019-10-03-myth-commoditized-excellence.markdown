@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The world’s most ambitious project: an entire new land, purpose-built for a new way of living"
+title:  "Myth of commoditized excellence"
 date:   2019-10-03
 categories: business code politics startup
 vid_link: false
