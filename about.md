@@ -22,3 +22,6 @@ Some nice sources:
 [UK National Archives](http://www.nationalarchives.gov.uk/webarchive/)
 [HMRC Developer Hub - API docs](https://developer.service.hmrc.gov.uk/api-documentation/docs/api)
 
+[FinanceFees](https://financefeeds.com/)
+[Bellingcat](https://www.bellingcat.com/)
+
