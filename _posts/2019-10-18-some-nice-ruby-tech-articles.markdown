@@ -32,7 +32,7 @@ class A
   end # closes singleton class
 end
 A.singleton_methods # => [:coolio]
-{% highlight ruby %}
+{% endhighlight %}
 
 [1]: //vaidehijoshi.github.io/blog/2014/12/14/to-understand-recursion-you-must-first-understand-recursion/
 [2]: //dev.to/eligoh/dependency-injection-in-ruby-55ja
