@@ -18,10 +18,15 @@ Some nice sources:
 [Reddit](https://www.reddit.com)
 [Scripting News](http://scripting.com/)
 
+[WayBackMachine](https://archive.org/)
+
 [UKTradeInfo.com](https://www.uktradeinfo.com/Pages/Home.aspx)
 [UK National Archives](http://www.nationalarchives.gov.uk/webarchive/)
 [HMRC Developer Hub - API docs](https://developer.service.hmrc.gov.uk/api-documentation/docs/api)
 
 [FinanceFees](https://financefeeds.com/)
 [Bellingcat](https://www.bellingcat.com/)
+
+[Geoff - nice blog](https://www.potaroo.net/)
+[Bjarne - nice blog](http://www.stroustrup.com/index.html)
 

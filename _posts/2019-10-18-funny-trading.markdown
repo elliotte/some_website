@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hanky Panky - fantastically prrofitable mystery of Trump Chaos"
+title:  "Hanky Panky - fantastically profitable mystery of Trump Chaos"
 date:   2019-10-18
 categories: business money economics markets trading politics
 vid_link: false
