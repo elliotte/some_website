@@ -19,8 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A ledger of patterns.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: fin-guru
-github_username:  elliotte
+twitter:  techno_and_code
 show_excerpts: true
 
 # Build settings

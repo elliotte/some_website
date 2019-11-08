@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Logged" }}</h2>
     <ul id="top-of-list" class="post-list">
       {%- for post in site.posts -%}
       <li class="post-hook">
@@ -68,11 +68,19 @@ layout: default
   $(".post-list-heading").prepend(bar)
   $(bar).addClass(".search-bar")
 
+  //var totalPosts = document.getElementsByClassName(".post-meta");
+
+  $(".post-list-heading").append('<span style="font-size:50%;">' + '   Total: (' + $('.post-hook').length + ')' + '</span>')
+  console.log($('.post-hook').length);
+  //$(".post-list-heading").text('' + $('.post-hook').length + '')
+
   $(document).on('keypress',function(e) {
     if(e.which == 13) {
         var searchTerm = $(".search-bar").val();
         console.log(searchTerm)
-        posts = document.getElementsByClassName(searchTerm);
+        var posts = document.getElementsByClassName(searchTerm);
+        
+
         $(posts).map(function() {
           console.log(this)
           var hook = this.parentElement.parentElement
