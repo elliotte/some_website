@@ -11,9 +11,9 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <ul id="top-of-list" class="post-list">
       {%- for post in site.posts -%}
-      <li>
+      <li class="post-hook">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -22,11 +22,11 @@ layout: default
           </a>
           <br>
           {% for cat in post.categories %}
-            <span class="cat-tags">{{ cat }}</span>
+            <span class="cat-tags {{ cat }}">{{ cat }}</span>
           {% endfor %}
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          <span>{{ cat }} {{ post.excerpt }}</span>
         {%- endif -%}
       </li>
       {%- endfor -%}
@@ -45,10 +45,44 @@ layout: default
     font-size: 80%;
     border-radius: 10px;
   }
+  .search-bar {
+    float: left;
+    text-align:center;
+    width: 20%;
+    margin: 5px;
+    border: 3px solid #00B4CC;
+    padding: 5px;
+    height: 60%;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+  }
 </style>
 
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+
 <script>
-  console.log('hello')
+
+  console.log('nerd')
+  var bar = '<input type="text" class="search-bar" placeholder="Search..">'
+  $(".post-list-heading").prepend(bar)
+  $(bar).addClass(".search-bar")
+
+  $(document).on('keypress',function(e) {
+    if(e.which == 13) {
+        var searchTerm = $(".search-bar").val();
+        console.log(searchTerm)
+        posts = document.getElementsByClassName(searchTerm);
+        $(posts).map(function() {
+          console.log(this)
+          var hook = this.parentElement.parentElement
+          $(hook).css("background-color", "#FFDFD3");
+          $("#top-of-list").prepend(hook)
+          $(hook).addClass("post-meta")
+          $(this).addClass("cat-tags")
+        });
+    }
+  });
   // POTENTIAL UI TOOL
   // http://augmented-ui.com/
 </script>
