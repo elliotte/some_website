@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "How The Deep State "Justifies" Itself In America"
+title:  "How The Deep State Justifies Itself In America"
 date:   2019-11-11
 categories: business politics power corruption money
 vid_link: false
 ---
 
-Interesting - Watch 9 aritcles written by the deep state.
+Interesting - Watch 9 aritcles written by the deep state appear over time.
 
 They’ve come out of the closet, about being the Deep State. However, even in that, they are lying, because they aren’t it; they are only agents for it.
 
