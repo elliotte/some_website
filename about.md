@@ -6,27 +6,30 @@ permalink: /about/
 
 Some nice sources:
 
-[IbizaSonica](http://ibizasonica.com/)
-[IbizaGlobalTv](http://ibizaglobal.tv/)
-[wwwoz.com](http://wwwoz.com/)
+- [IbizaSonica](http://ibizasonica.com/)
+- [IbizaGlobalTv](http://ibizaglobal.tv/)
+- [wwwoz.com](http://wwwoz.com/)
 
-[SlashDot](https://slashdot.org/)
-[HN](https://news.ycombinator.com/)
-[ZeroHedge](https://www.zerohedge.com/)
-[CorporateTreasurer](https://www.thecorporatetreasurer.com/)
-[CNX Software](/2019/09/15/pinetime-smartwatch-companion-pinephone/)
-[Reddit](https://www.reddit.com)
-[Scripting News](http://scripting.com/)
+- [SlashDot](https://slashdot.org/)
+- [HN](https://news.ycombinator.com/)
+- [ZeroHedge](https://www.zerohedge.com/)
+- [CorporateTreasurer](https://www.thecorporatetreasurer.com/)
+- [CNX Software](/2019/09/15/pinetime-smartwatch-companion-pinephone/)
+- [Reddit](https://www.reddit.com)
 
-[WayBackMachine](https://archive.org/)
+- [Geoff - nice blog](https://www.potaroo.net/)
+- [Bjarne - nice blog](http://www.stroustrup.com/index.html)
+- [Scripting News](http://scripting.com/)
+- [Customer Commons](//customercommons.org/blog/)
+- [Moon of Alabama](//www.moonofalabama.org/)
 
-[UKTradeInfo.com](https://www.uktradeinfo.com/Pages/Home.aspx)
-[UK National Archives](http://www.nationalarchives.gov.uk/webarchive/)
-[HMRC Developer Hub - API docs](https://developer.service.hmrc.gov.uk/api-documentation/docs/api)
+- [WayBackMachine](https://archive.org/)
 
-[FinanceFees](https://financefeeds.com/)
-[Bellingcat](https://www.bellingcat.com/)
+- [UKTradeInfo.com](https://www.uktradeinfo.com/Pages/Home.aspx)
+- [UK National Archives](http://www.nationalarchives.gov.uk/webarchive/)
+- [HMRC Developer Hub - API docs](https://developer.service.hmrc.gov.uk/api-documentation/docs/api)
 
-[Geoff - nice blog](https://www.potaroo.net/)
-[Bjarne - nice blog](http://www.stroustrup.com/index.html)
+- [FinanceFees](https://financefeeds.com/)
+- [Bellingcat](https://www.bellingcat.com/)
+
 
