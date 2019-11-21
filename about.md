@@ -32,4 +32,22 @@ Some nice sources:
 - [FinanceFees](https://financefeeds.com/)
 - [Bellingcat](https://www.bellingcat.com/)
 
+List of cool movies/documentaries:
+
+- [Glengarry Glen Ross](https://en.wikipedia.org/wiki/Glengarry_Glen_Ross_(film)
+- [The Founder](https://en.wikipedia.org/wiki/The_Founder)
+- [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film)
+- [Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
+- [Margin Call](https://en.wikipedia.org/wiki/Margin_Call)
+- [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film)
+- [MoneyBall](https://en.wikipedia.org/wiki/Moneyball_(film)
+- [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
+- [Social Network](https://en.wikipedia.org/wiki/The_Social_Network)
+- [American Gangster](https://en.wikipedia.org/wiki/American_Gangster_(film)
+- [The Black Godfather](https://www.netflix.com/gb/title/80173387)
+- [Laundromat](https://en.wikipedia.org/wiki/The_Laundromat_(film)
+- [Dirty Money](https://www.netflix.com/gb/title/80118100)
+- [Money Heist](https://en.wikipedia.org/wiki/Money_Heist)
+- [Gold](https://en.wikipedia.org/wiki/Gold_(2016_film))
+
 
