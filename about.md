@@ -6,9 +6,9 @@ permalink: /about/
 
 Some nice sources:
 
-- [IbizaSonica](http://ibizasonica.com/)
-- [IbizaGlobalTv](http://ibizaglobal.tv/)
-- [wwwoz.com](http://wwwoz.com/)
+[IbizaSonica](http://ibizasonica.com/) | [IbizaGlobalTv](http://ibizaglobal.tv/)
+[Wick Radio](https://hackneywicked.co.uk/venues/wick-radio/) | [wwwoz.com](http://wwwoz.com/)
+
 
 - [SlashDot](https://slashdot.org/)
 - [HN](https://news.ycombinator.com/)
@@ -46,9 +46,9 @@ List of cool movies/documentaries:
 - [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))
 - [Pursuit of Happyness](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
 - [Margin Call](https://en.wikipedia.org/wiki/Margin_Call)
-- [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film)
-- [MoneyBall](https://en.wikipedia.org/wiki/Moneyball_(film)
-- [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
+- [Wall Street](https://en.wikipedia.org/wiki/Wall_Street_(1987_film))
+- [MoneyBall](https://en.wikipedia.org/wiki/Moneyball_(film))
+- [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))
 - [Social Network](https://en.wikipedia.org/wiki/The_Social_Network)
 - [American Gangster](https://en.wikipedia.org/wiki/American_Gangster_(film))
 - [The Black Godfather](https://www.netflix.com/gb/title/80173387)
@@ -59,8 +59,9 @@ List of cool movies/documentaries:
 - [Four Hoursemen](https://www.youtube.com/watch?v=5fbvquHSPJU)
 - [Brexit Uncivil War](https://www.channel4.com/programmes/brexit-the-uncivil-war)
 - [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
-- South Park | Simpsons | Family Guy 
 - [Sleeper Cell](https://www.imdb.com/title/tt0465353/)
 
+
+- South Park | Simpsons | Family Guy 
 
 
