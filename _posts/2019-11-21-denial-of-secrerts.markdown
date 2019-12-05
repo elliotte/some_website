@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Hierarchy of Cringe"
+title:  "Denial of Secrets Data"
 date:   2019-11-21
 categories: hacking politics corruption code software climate
 vid_link: false

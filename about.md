@@ -25,6 +25,7 @@ Some nice sources:
 - [Moon of Alabama](//www.moonofalabama.org/)
 
 - [WayBackMachine](https://archive.org/)
+- [JS Linux Emulator](http://s-macke.github.io/jor1k/demos/main.html)
 
 - [UKTradeInfo.com](https://www.uktradeinfo.com/Pages/Home.aspx)
 - [UK National Archives](http://www.nationalarchives.gov.uk/webarchive/)
@@ -33,6 +34,14 @@ Some nice sources:
 
 - [FinanceFees](https://financefeeds.com/)
 - [Bellingcat](https://www.bellingcat.com/)
+
+- [OpenSecrets.org](http://www.opensecrets.org/)
+- [Edgar Search Tools](https://www.sec.gov/edgar/searchedgar/webusers.htm)
+- [Conference Call Scripts](http://www.conferencecalltranscripts.com/)
+- [Google Public Data](https://www.google.co.uk/publicdata/directory#)
+- [Open Data Portals](http://dataportals.org/)
+- [Google Scholar](https://scholar.google.com/)
+- [Ancient Places Map](https://www.trismegistos.org/geo/index.php)
 
 List of cool movies/documentaries:
 
