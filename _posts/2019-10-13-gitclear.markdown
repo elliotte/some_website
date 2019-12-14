@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Introducing Open Repos: a free product to aid open source development"
+date:   2019-12-13
+categories: code tech sofware open-source
+video: false
+---
+
+Open Repos (alternatively, "Oreps﻿") is built to make it easier to read and contribute to open source repos.
+
+[Article](https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development)
+
+
+
+
+
