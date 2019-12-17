@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Darknet diving – conducting OSINT on .onion sites"
+date:   2019-12-15
+categories: code software tech open-source intelligence
+video: false
+---
+
+The guy worked with the Gardas in Cyber crime, cool follow.    Interesting into article.
+
+[Article](https://www.osintme.com/index.php/2019/11/24/darknet-diving-conducting-osint-on-onion-sites/)
+
+
+
+
