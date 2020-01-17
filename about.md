@@ -9,6 +9,8 @@ Some nice sources:
 [IbizaSonica](http://ibizasonica.com/) | [IbizaGlobalTv](http://ibizaglobal.tv/)
 [Wick Radio](https://hackneywicked.co.uk/venues/wick-radio/) | [wwwoz.com](http://wwwoz.com/)
 
+- [Ruby Weekly](https://rubyweekly.com/)
+- [JS Weekly](https://javascriptweekly.com/)
 
 - [SlashDot](https://slashdot.org/)
 - [HN](https://news.ycombinator.com/)
@@ -23,6 +25,7 @@ Some nice sources:
 
 - [Customer Commons](//customercommons.org/blog/)
 - [Moon of Alabama](//www.moonofalabama.org/)
+- [Dominic Cummings](//dominiccummings.com/)
 
 - [WayBackMachine](https://archive.org/)
 - [JS Linux Emulator](http://s-macke.github.io/jor1k/demos/main.html)
@@ -42,6 +45,7 @@ Some nice sources:
 - [Open Data Portals](http://dataportals.org/)
 - [Google Scholar](https://scholar.google.com/)
 - [Ancient Places Map](https://www.trismegistos.org/geo/index.php)
+- [Sci-Hub](https://sci-hub.se/)
 
 List of cool movies/documentaries:
 
@@ -50,6 +54,7 @@ List of cool movies/documentaries:
 - [Only fools and Horses](https://en.wikipedia.org/wiki/Only_Fools_and_Horses)
 - [West Wing](https://en.wikipedia.org/wiki/The_West_Wing)
 - [UK - House of Cards](https://www.bbc.co.uk/iplayer/episode/b0082fjd/house-of-cards-episode-1)
+- [The Thick of it](https://en.wikipedia.org/wiki/The_Thick_of_It)
 - [Glengarry Glen Ross](https://en.wikipedia.org/wiki/Glengarry_Glen_Ross_(film))
 - [The Founder](https://en.wikipedia.org/wiki/The_Founder)
 - [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))
@@ -73,4 +78,6 @@ List of cool movies/documentaries:
 
 - South Park | Simpsons | Family Guy 
 
+*Positions?*
 
+- Internet satellites [By the mid-2020s, thousands to tens of thousands of new satellites could be soaring overhead](//www.nature.com/articles/d41586-020-00041-4)
