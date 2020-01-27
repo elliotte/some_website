@@ -40,6 +40,7 @@ Some nice sources:
 
 - [OpenSecrets.org](http://www.opensecrets.org/)
 - [Edgar Search Tools](https://www.sec.gov/edgar/searchedgar/webusers.htm)
+- [000s DataSets](https://blog.google/products/search/discovering-millions-datasets-web/)
 - [Conference Call Scripts](http://www.conferencecalltranscripts.com/)
 - [Google Public Data](https://www.google.co.uk/publicdata/directory#)
 - [Open Data Portals](http://dataportals.org/)
