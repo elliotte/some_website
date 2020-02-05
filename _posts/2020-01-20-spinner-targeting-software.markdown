@@ -2,7 +2,7 @@
 layout: post
 title:  "Spinner - subconsciously influence anyone"
 date:   2020-01-27
-categories: politics advertising money
+categories: politics advertising money software code
 video: false
 ---
 
