@@ -47,6 +47,8 @@ Some nice sources:
 - [Google Scholar](https://scholar.google.com/)
 - [Ancient Places Map](https://www.trismegistos.org/geo/index.php)
 - [Sci-Hub](https://sci-hub.se/)
+- [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
+- [Unfiltered flight data](https://www.adsbexchange.com/)
 
 List of cool movies/documentaries:
 

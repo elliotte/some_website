@@ -28,7 +28,7 @@ video: false
 [2](https://www.reuters.com/article/us-usa-china-semiconductors-insight/u-s-based-chip-tech-group-moving-to-switzerland-over-trade-curb-fears-idUSKBN1XZ16L)
 [3](https://hardware.slashdot.org/story/19/12/16/2155259/nuclear-fusion-startup-raises-100-million-to-design-and-build-a-demo-power-plant)
 
-
  - PENDING PROCESSING
 
  [CIA encryption](https://www.businessinsider.com/cia-secretly-bought-encryption-company-crypto-ag-spy-countries-report-2020-2?r=US&IR=T)
+ [Qatar's investments in Britain](https://uk.reuters.com/article/uk-iag-qatar-stake-investments-factbox/factbox-qatars-investments-in-britain-barclays-sainsburys-harrods-and-iag-idUKKBN20D1EC)
