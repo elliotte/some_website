@@ -49,6 +49,8 @@ Some nice sources:
 - [Sci-Hub](https://sci-hub.se/)
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
 - [Unfiltered flight data](https://www.adsbexchange.com/)
+- [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
+- [HiddenVM](https://github.com/aforensics/HiddenVM)
 
 List of cool movies/documentaries:
 
@@ -84,3 +86,9 @@ List of cool movies/documentaries:
 *Positions?*
 
 - Internet satellites [By the mid-2020s, thousands to tens of thousands of new satellites could be soaring overhead](//www.nature.com/articles/d41586-020-00041-4)
+
+*PendingWatch?*
+
+- [Gomorrah](https://www.google.com/search?q=gomorrah+season+5&oq=gamorra+&aqs=chrome.1.69i57j0l7.2842j1j7&sourceid=chrome&ie=UTF-8)
+
+
