@@ -45,6 +45,7 @@ Some nice sources:
 - [Google Public Data](https://www.google.co.uk/publicdata/directory#)
 - [Open Data Portals](http://dataportals.org/)
 - [Google Scholar](https://scholar.google.com/)
+- [Google Open Source](https://cs.opensource.google/)
 - [Ancient Places Map](https://www.trismegistos.org/geo/index.php)
 - [Sci-Hub](https://sci-hub.se/)
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/)
