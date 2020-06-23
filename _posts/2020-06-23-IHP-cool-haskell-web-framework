@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "IHP - Integrated Haskell Platform for modern web development"
+date:   2020-03-23
+categories: code haskell programming web new
+video: false
+---
+
+IHP is a modern batteries-included Web Framework, built on top of Haskell and Nix.
+
+Rediscovering the power of server side rendering.
+
+[1]
+
+[1]: //ihp.digitallyinduced.com
