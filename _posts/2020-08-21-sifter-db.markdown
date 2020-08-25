@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A Database of 5,000 Historical Cookbooks"
+date:   2020-08-21
+categories: cool history cooking life
+video: false
+---
+
+Article and DB.  Collection of books by various authors containing receipes, etc.  50 years to compile.
+
+[1]
+
+[db]
+
+[1]: //www.atlasobscura.com/articles/how-to-find-historic-cookbooks
+
+[db]: //thesifter.org/Home/Search
