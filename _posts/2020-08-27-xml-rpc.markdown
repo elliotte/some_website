@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "What is XML-RPC?"
+date:   2020-08-27
+categories: code web xml tools
+video: false
+---
+
+Nice library.
+
+Starting in 2019, there's a new implementation of XML-RPC in JavaScript.
+
+It's remote procedure calling using HTTP as the transport and XML as the encoding.  Could have used in MS Word document parsing API project.
+
+[1]
+
+[1]: //xmlrpc.com/
