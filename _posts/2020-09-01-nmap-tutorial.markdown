@@ -9,5 +9,7 @@ vid_link: //www.youtube.com/embed/4t4kBkMsDbQ
 
 Neat explaination of mapping network connections.   Terminal Nmap, TCPs and 3 way handshakes ( SYN, ACK ).
 
-'man nmap' to get help
+Scan networks for open ports, connected devices, operating systems used, run decoys.
+
+'man nmap' to get help.
 
