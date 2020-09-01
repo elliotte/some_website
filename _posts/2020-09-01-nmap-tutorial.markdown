@@ -13,3 +13,5 @@ Scan networks for open ports, connected devices, operating systems used, run dec
 
 'man nmap' to get help.
 
+'nmap scripts vuln <host-ip>'
+
