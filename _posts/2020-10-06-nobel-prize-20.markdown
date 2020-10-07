@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "The Nobel Prize in Chemistry and Physics"
+date:   2020-10-02
+categories: science technology awesome physics chemistry
+video: false
+---
+
+[Physics] - Roger Penrose used ingenious mathematical methods in his proof that black holes are a direct consequence of Albert Einstein’s general theory of relativity.  
+AND, their pioneering work has given us the most convincing evidence yet of a supermassive black hole at the centre of the Milky Way.
+
+[Chemistry] - Using these, researchers can change the DNA of animals, plants and microorganisms with extremely high precision.
+
+[Physics]: //www.nobelprize.org/prizes/physics/2020/press-release/
+
+[Chemistry]: //www.nobelprize.org/prizes/chemistry/2020/press-release/
