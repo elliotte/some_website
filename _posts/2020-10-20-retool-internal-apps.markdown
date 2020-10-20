@@ -6,9 +6,7 @@ categories: code technology software programming
 video: false
 ---
 
-Short story, better soil wins.
-
-Started in 1981, Rodale Institute’s Farming Systems Trial is the longest-running side-by-side comparison of organic and conventional grain cropping systems in North America.
+Tools to build internal apps, raised big quick.  'New way to build software'
 
 [1]
 
