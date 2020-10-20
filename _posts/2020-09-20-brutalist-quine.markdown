@@ -10,4 +10,6 @@ Mr. Trump has overcome yet another adversity, specifically one that the Resistan
 
 [1]
 
+Like(lol) reference [NoYaml](//noyaml.com/)
+
 [1]: //secretgeek.github.io/html_wysiwyg/html.html
