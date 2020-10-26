@@ -10,4 +10,6 @@ Polkadot - from co-foudner of etherum.
 
 “We are going to see a lot of different innovative products that can’t exist in a smart contract environment. Game blockchains, ensuring gamers don’t cheat. Blockchains within consortia. They are difficult to deploy in a smart contract environment.”
 
-[1]  //www.zerohedge.com/crypto/meet-network-could-be-poised-dethrone-ethereum
+[1]
+
+[1]:  //www.zerohedge.com/crypto/meet-network-could-be-poised-dethrone-ethereum
