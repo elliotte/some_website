@@ -10,4 +10,6 @@ Cool pre Hastings and Harold history.  Harold chosen by Victorian education in e
 
 But comes from a long line of kings, once Harold died, looped back to bloody line, which Edward had planned for even tho was dead :o
 
-[1]  h//www.historyextra.com/period/medieval/edward-confessor-what-like-king-leader-holy-hardman/?utm_source=pocket-newtab-global-en-GB
+[1]
+
+[1]:  h//www.historyextra.com/period/medieval/edward-confessor-what-like-king-leader-holy-hardman/?utm_source=pocket-newtab-global-en-GB
