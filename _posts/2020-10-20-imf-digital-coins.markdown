@@ -8,4 +8,4 @@ video: false
 
 Research by IMF on digital coins.. indirect steps to adoption? [1]
 
-[1]  //www.imf.org/en/Publications/Policy-Papers/Issues/2020/10/17/Digital-Money-Across-Borders-Macro-Financial-Implications-49823
+[1]:  //www.imf.org/en/Publications/Policy-Papers/Issues/2020/10/17/Digital-Money-Across-Borders-Macro-Financial-Implications-49823
