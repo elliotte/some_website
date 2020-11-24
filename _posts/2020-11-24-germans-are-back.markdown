@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What happened in 1971?(WTF?)"
+title:  "The Germans are back!"
 date:   2020-11-24
 categories: politics power corruption life
 video: false
