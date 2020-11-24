@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World's fastest electrodes" triple the density of lithium batteries"
+title:  "World's fastest electrodes triple the density of lithium batteries"
 date:   2020-10-02
 categories: science technology news business
 video: false

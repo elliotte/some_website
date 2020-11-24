@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doug Casey: How To Survive The "Deep State"
+title:  "Doug Casey: How To Survive The Deep State"
 date:   2020-02-14
 categories: business politics world corropution economics
 video: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The "New Normal" Is De-Normalization"
+title:  "The New Normal Is De-Normalization"
 date:   2020-08-21
 categories: business economics politics money
 video: false

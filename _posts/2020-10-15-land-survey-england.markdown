@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who owns England? 
+title:  "Who owns England?"
 date:   2020-10-15
 categories: history news learning business
 video: false
