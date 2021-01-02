@@ -12,4 +12,6 @@ The new facility is in Denmark, in an area called Taastrup outside of Copenhagen
 
 [1]
 
+Added update, comany doing 400x per hectare, [here](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
+
 [1]: //singularityhub.com/2020/12/11/europes-biggest-vertical-farm-will-be-powered-by-wind-and-planted-by-robots/

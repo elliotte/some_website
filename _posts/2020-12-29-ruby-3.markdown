@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ruby 3.0 and new Fiber feature"
+date:   2020-12-29
+categories:  code ruby software programming ruby
+vid_link: false
+---
+
+"Most articles I have read so far focus more on the new ways to introduce type hints and the Ractor system but for me the most interesting addition was the introduction of the Fiber::SchedulerInterface class...
+
+... however, many Ruby processes spend much of their time waiting on I/O, such as waiting for the responses of API and database calls or waiting to read more of a HTTP request from a network socket. This is the use case where fibers shine... more “traditional” systems manage all this waiting around by allocating a separate operating system (OS) thread for every separate request.
+
+[1]
+
+[1]: //www.wjwh.eu/posts/2020-12-28-ruby-fiber-scheduler-c-extension.html
