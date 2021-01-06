@@ -31,7 +31,8 @@ Settings: `/usr/local/etc/httpd/httpd.conf`
 DocumentRoot: `/usr/local/var/www`
 
 Nice commands:
-`sudo apachectl start
+```bash
+sudo apachectl start
 sudo apachectl stop
 sudo apachectl -k restart
 tail -f /usr/local/var/log/httpd/error_log
@@ -39,8 +40,7 @@ tail -f /usr/local/var/log/httpd/access_log
 tail -f /usr/local/var/log/httpd/access_log
 open /usr/local/etc/httpd/httpd.conf
 tail-f /usr/local/var/log/httpd/ssl_request_log
-`
-
+```
 
 Good article [here](//joostvanveen.com/a-28/install-and-configure-apache-2-on-mojave-with-homebrew) on installing on Mojave and homebrew.
 
