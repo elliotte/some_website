@@ -6,11 +6,13 @@ categories: code software learning hacking programming hackerone
 video: false
 ---
 
-- [PayloadsAllTheThings](//github.com/swisskyrepo/PayloadsAllTheThings)
+- [PayloadsAllTheThings](//github.com/swisskyrepo/PayloadsAllTheThings) and [here](//www.xss-payloads.com/payloads-list.html?a#category=all)
 - [Resources](//www.hacker101.com/resources)
-- [Public firing range](//public-firing-range.appspot.com/)
+- [Public firing range](//public-firing-range.appspot.com/) [Github](//github.com/google/firing-range)
+- [Dom Wiki](//github.com/wisec/domxsswiki/wiki/Finding-DOMXSS)
 - [Github](//github.com/s0wr0b1ndef/Hacker101) includes Coursework
 - [Portswigger WebAcademy](//portswigger.net/web-security)
+- [Ronin - ruby plattform for scanning/exploits](//ronin-rb.dev/examples/)
 
 #### Quick Ref
 - [SSRF](//github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md)
@@ -19,6 +21,16 @@ video: false
 - [SQL Authentication ByPass ](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection#authentication-bypass)
 - [CORS Misconfiguration](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CORS%20Misconfiguration)
 - [WebSocket Attacks](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets)
+
+#### Server Hosting
+- Apache2
+  - UsefulCommands:
+  `tail -f /usr/local/var/log/httpd/error_log
+   tail -f /usr/local/var/log/httpd/access_log
+   tail -f /usr/local/var/log/httpd/access_log
+   open /usr/local/etc/httpd/httpd.conf
+   tail-f /usr/local/var/log/httpd/ssl_request_log`
+- Puma/[Puma Dev](//github.com/puma/puma-dev) A fast, zero-config development server for macOS and Linux (Like Apache)
 
 #### Bug Trackers
   - [SecList](//seclists.org/)  
@@ -157,6 +169,20 @@ video: false
   - Example header injection [report](//hackerone.com/reports/297478)
   - Example header injection [report](//hackerone.com/reports/761304)
 
+#### NMAP Cheat Sheet
+  - `
+    nmap 127.0.0.1
+    nmap 127.0.0.1 -sS
+    nmap 127.0.0.1 -sS
+    sudo nmap 127.0.0.1 -sS
+    nmap 127.0.0.1 -sU
+    sudo nmap 127.0.0.1 -sU
+    sudo nmap 127.0.0.1 -sA
+    nmap 127.0.0.1 --top-ports 2000
+    sudo nmap 127.0.0.1 -O
+    nmap --script whois* something.com
+    `
+
 #### Native Code Crash Course
   
   - Website [link](//www.hacker101.com/sessions/native_code_crash_course)
@@ -170,9 +196,39 @@ video: false
     - Debuggers | Disassemblers | Decompilers
     - Hex editors | Assemblers
 
+
+#### Ronin [Examples](https://ronin-rb.dev/examples/)
+ 
+  - Example [RoninExploits](//github.com/ronin-rb/ronin-exploits#readme) gem
+  - `http_get_headers :url => 'http://example.com/'`
+  - `"hello\x00\x90\a\b\t\r\n".hexdump`
+  - udp_open?('4.2.2.1',53)
+  - tcp_open?('example.com',80)
+  - ronin net:proxy --port 53 --server 4.2.2.1 --udp --hexdump
+  - ronin net:proxy --port 8080 --server google.com:80
+  - ronin fuzzer -i request.txt -o bad.txt -r unix_path:bad_strings
+  - Incrementally fuzz a string 
+    - `"[1,2,3]".fuzz(/\d+/ => String.generate(['9', 1..100])) do |str|
+        puts str
+      end`
+  - unix_connect('/tmp/haproxy.stats.socket')
+  - Creating a UDP session which will be automatically closed 
+    - `udp_server_loop(1337) do |server,(host,port),mesg|
+      print_info "#{host}:#{port}"
+      mesg.hexdump
+     end`
+  - `tcp_send(buffer,'example.com',1212)`
+  - `ftp_connect('www.example.com', :user => 'joe', :password => 'secret')`
+  - Unpack a string: `"\x00\x05hello\x00".unpack(:uint16_be, :string)`
+  - Pack an Array: [0x05, "hello"].pack(:uint16_be, :string)
+  - `tcp_banner('www.example.com',22)`
+  - Return the SHA512 checksum of a String: `"thunder growl".sha512`
+
 #### Other Tools
+  - XSS sink and source scan [XSS](//domxssscanner.geeksta.net/)
   - Vulnerability scanning [WhatWeb](//www.morningstarsecurity.com/research/whatweb)
   - ProxyChains on Kali Linux, `nmap` to ping and tcp connect `-Pn` `-ST`
+    - proxychain `nmap -sT -p 80,443 <ipaddy>`
   - [Ghidra] is a software reverse engineering (SRE) framework
   - [Radar2] a free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging
   - [Public firing range] is a test bed for automated web application security scanners.
