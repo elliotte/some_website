@@ -3,7 +3,7 @@ layout: post
 title:  "Ruby 3.0 and new Fiber feature"
 date:   2020-12-29
 categories:  code ruby software programming ruby
-vid_link: false
+video: false
 ---
 
 "Most articles I have read so far focus more on the new ways to introduce type hints and the Ractor system but for me the most interesting addition was the introduction of the Fiber::SchedulerInterface class...

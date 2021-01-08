@@ -3,7 +3,7 @@ layout: post
 title:  "Apache 2, config, setup and networking"
 date:   2021-01-01
 categories:  code software web programming networking hosting
-vid_link: false
+video: false
 ---
 
 Linux and Mac based operations, (LAMP, MAMP), the A stands for apache.

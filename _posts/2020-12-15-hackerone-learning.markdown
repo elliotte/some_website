@@ -9,10 +9,16 @@ video: false
 - [PayloadsAllTheThings](//github.com/swisskyrepo/PayloadsAllTheThings) and [here](//www.xss-payloads.com/payloads-list.html?a#category=all)
 - [Resources](//www.hacker101.com/resources)
 - [Public firing range](//public-firing-range.appspot.com/) [Github](//github.com/google/firing-range)
+- [XSS Hunter](//xsshunter.com/features)
 - [Dom Wiki](//github.com/wisec/domxsswiki/wiki/Finding-DOMXSS)
 - [Github](//github.com/s0wr0b1ndef/Hacker101) includes Coursework
 - [Portswigger WebAcademy](//portswigger.net/web-security)
 - [Ronin - ruby plattform for scanning/exploits](//ronin-rb.dev/examples/)
+- [Fuzz Faster Fool](https://github.com/ffuf/ffuf)
+- [tcpcrypt](//github.com/scslab/tcpcrypt)
+- [m0llock](https://github.com/m4ll0k/Bug-Bounty-Toolz) Bug-Bounty-Toolz | WAScanner
+
+- [Awesome bug WriteUps](//github.com/m4ll0k/Awesome-Bugbounty-Writeups)
 
 #### Quick Ref
 - [SSRF](//github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md)
@@ -136,7 +142,6 @@ video: false
   - Finding API endpoints in JS (keywords such as v1, api etc )
   - Look at wayBackMachine to find/track changes in code/javascript, look at first applications in WBM, as most rushed and least protected, then reverse engineer.
 
-
   - Popular Sources and sinks
     - eval | setTimout | setInterval
     - document.URL | document.documentURI | document.referrer | document.write
@@ -229,10 +234,28 @@ video: false
   - Vulnerability scanning [WhatWeb](//www.morningstarsecurity.com/research/whatweb)
   - ProxyChains on Kali Linux, `nmap` to ping and tcp connect `-Pn` `-ST`
     - proxychain `nmap -sT -p 80,443 <ipaddy>`
+    - `cd /usr/local/Cellar/proxychains-ng/4.14/bin`
+    - `./proxychains4 -f src/proxychains.conf telnet google.com 80`
+    - `proxychains4 sqlmap -u https://softocracy.ru/prog.php?id=652 2>/dev/null`
+    -  `proxychains4 wpscan -u https://hackware.ru -e p,vt,u 2>/dev/null`
   - [Ghidra] is a software reverse engineering (SRE) framework
   - [Radar2] a free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging
   - [Public firing range] is a test bed for automated web application security scanners.
   - Cool expert CTF writeups [here](https://github.com/TFNS/writeups)
+
+#### Good writeups
+ - [XSS WAF & Character limitation bypass](//medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229)
+ - [Traversing the path](//hawkinsecurity.com/2018/08/27/traversing-the-path-to-rce/)
+
+#### Misc Notes
+  StoK 5 attack strategy:
+  - subdomains | fingerprinting | portscanning  
+  - visual analysis
+  - brute force
+
+fuzzing stuff - how to?
+changinh response in burp to web-app
+finding waf bypass dom xss
 
 [1]: //owasp.org/www-community/xss-filter-evasion-cheatsheet
 [Ghidra]: //github.com/NationalSecurityAgency/ghidra
