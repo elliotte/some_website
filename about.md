@@ -19,6 +19,7 @@ Some nice sources:
 - [CNX Software](/2019/09/15/pinetime-smartwatch-companion-pinephone/)
 - [Reddit](https://www.reddit.com)
 - [Scripting News](http://scripting.com/)
+- [SecNews](//en.secnews.gr/)
 
 - [Geoff - nice blog](https://www.potaroo.net/)
 - [Bjarne - nice blog](http://www.stroustrup.com/index.html)

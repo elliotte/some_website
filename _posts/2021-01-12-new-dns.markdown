@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Sci-Hub moves to Handshake DNS"
+date:   2021-01-12
+categories:  web domains internet news blockchain
+video: false
+---
+
+Database Sci-Hub Is Now on the ‘Uncensorable Web’. [1](//www.nasdaq.com/articles/pirated-academic-database-sci-hub-is-now-on-the-uncensorable-web-2021-01-11)
+
+[Handshake Protocol](/handshake.org/)
+[Buy a domain](//www.namebase.io/)
+
+Pretty cool potential new future infrastructure?
+
+
+
+

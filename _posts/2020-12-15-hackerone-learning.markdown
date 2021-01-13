@@ -27,6 +27,7 @@ video: false
 - [SQL Authentication ByPass ](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection#authentication-bypass)
 - [CORS Misconfiguration](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CORS%20Misconfiguration)
 - [WebSocket Attacks](//github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets)
+- [SecList](//seclists.org/) - [Github](https://github.com/jhaddix/SecLists)
 
 #### Server Hosting
 - Apache2
@@ -37,14 +38,6 @@ video: false
    open /usr/local/etc/httpd/httpd.conf
    tail-f /usr/local/var/log/httpd/ssl_request_log`
 - Puma/[Puma Dev](//github.com/puma/puma-dev) A fast, zero-config development server for macOS and Linux (Like Apache)
-
-#### Bug Trackers
-  - [SecList](//seclists.org/)  
-
-#### Bounty Programs
-  - HackerOne
-  - [Intrigi](//www.intigriti.com/programs)
-  - Github list of bounty [platforms](//github.com/disclose/diodata)
 
 #### Introduction
   - Be able to use Java
@@ -89,6 +82,7 @@ video: false
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection#bypass-using-utf---8)
   - Reflected and Stored XSS
     - Example reflected XSS bounty [report](//hackerone.com/reports/766633)
+    - [Like-A-Pro](//www.hackerinside.me/2019/12/xss-like-pro.html), good techniques on manual hacking a website.
 
   - DOM XSS
     - The most common source is the URL, which is typically accessed with the location object.
@@ -188,8 +182,19 @@ video: false
     nmap --script whois* something.com
     `
 
+#### [FFUF](//github.com/ffuf/ffuf)
+  Good video: //codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html
+  - uses wordlist to find assets via scan
+  - `ffuf -u xx.com/FUZZ -w ./wordlist.txt | tee ./output.txt`
+  - `ffuf -u xx.com/FUZZ -w ./wordlist.txt -recursion`
+  - `ffuf -u xx.com/FUZZ -w ./wordlist.txt -recursion -e .doc`
+  - `ffuf -u xx.com/FUZZ -w ./wordlist.txt -of html -o ./output.txt`
+  - add cookies `-b "COOKIE1=VALUE1; VAL2=VAL2"`
+  - custom headers `-H "HEADER1=VALUE1; HEAD2=VAL2"`
+  - Multiple domains same wordlist `ffuf -u https://w2.com/W1 -w ./wordlist:W1 -w ./domains:W2`
+  - Export request from burp then use in ffuf:  `ffuf -request /path/to/file -w ./wordlist`
+
 #### Native Code Crash Course
-  
   - Website [link](//www.hacker101.com/sessions/native_code_crash_course)
 
   - Registers | Memory | Physical | Virtual 
@@ -201,9 +206,7 @@ video: false
     - Debuggers | Disassemblers | Decompilers
     - Hex editors | Assemblers
 
-
 #### Ronin [Examples](https://ronin-rb.dev/examples/)
- 
   - Example [RoninExploits](//github.com/ronin-rb/ronin-exploits#readme) gem
   - `http_get_headers :url => 'http://example.com/'`
   - `"hello\x00\x90\a\b\t\r\n".hexdump`
@@ -229,6 +232,8 @@ video: false
   - `tcp_banner('www.example.com',22)`
   - Return the SHA512 checksum of a String: `"thunder growl".sha512`
 
+#### RFI to LFI
+  - Good write up [here](//hassankhanyusufzai.com/RFI_LFI_writeup/)
 #### Other Tools
   - XSS sink and source scan [XSS](//domxssscanner.geeksta.net/)
   - Vulnerability scanning [WhatWeb](//www.morningstarsecurity.com/research/whatweb)
@@ -246,6 +251,7 @@ video: false
 #### Good writeups
  - [XSS WAF & Character limitation bypass](//medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229)
  - [Traversing the path](//hawkinsecurity.com/2018/08/27/traversing-the-path-to-rce/)
+ - [NAT Slipstream](//github.com/samyk/slipstream)
 
 #### Misc Notes
   StoK 5 attack strategy:

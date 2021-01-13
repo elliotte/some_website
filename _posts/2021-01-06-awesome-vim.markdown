@@ -85,6 +85,3 @@ Uses, tags, attribs, comments:
 - Search out folder: `grep -Hnri '< Server:' out/`
 - Search recursive over directories: `grep -Hnri uberinternal *`
 
-[1]
-
-[1]: //www.youtube.com/watch?v=l8iXMgk2nnY

@@ -6,21 +6,63 @@ categories:  code software web programming networking hosting
 video: false
 ---
 
-Install nmap (apt-get)
+Download a file:
+scp -i eg-file azureuser@0.0.0.0:/home/azureuser/goldman/hosts /Users/johnmckay/Desktop/
+scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts /Users/johnmckay/recon/smartsheet/
 
-Downloaded Meg binary from Tomnomnom github ( to scan assets and download )
+- sudo apt-get install nmap
+- sudo apt-get install ffuf
+- sudo apt-get install sslscan
+- sudo apt install git
 
-Download [AMASS](//github.com/OWASP/Amass) binary then `cp amass /usr/bin/`
+- sudo apt install -y golang
+  - Add the following to your .bashrc 
+  `export GOROOT=/usr/lib/go
+   export GOPATH=$HOME/go
+   export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+   source .bashrc
+   `
+- go get -u github.com/tomnomnom/httprobe
 
-Install [Subfinder](http://github.com/projectdiscovery/subfinder/releases/download/v2.4.5/subfinder_2.4.5_linux_amd64.tar.gz) | `sudo tar -xzvf subfinder_2.4.5_linux_amd64.tar.gz`
+- git clone https://github.com/m3n0sd0n4ld/uDork
+	- cd uDork
+	- chmod +x uDork.sh
+	- Then setup cookies
 
-Install [nuclei] 
-wget github.com/projectdiscovery/nuclei/releases/download/v2.2.0/nuclei_2.2.0_linux_amd64.tar.gz
-tar -xzvf nuclei-linux-amd64.tar.gz
-mv nuclei /usr/local/bin/
+- wget github.com/cabal-club/cabal-cli/releases/download/v13.3.4/cabal-13.3.4-linux-x64.zip
+- sudo tar -xzvf cabal-13.3.4-linux-x64.tar.gz
+- mv cabal /usr/bin/
 
-[FuFF] sudo apt-get install ffuf
+- wget github.com/tomnomnom/assetfinder/releases/download/v0.1.0/assetfinder-linux-amd64-0.1.0.tgz
+- sudo tar -xzvf scabal-13.3.4-linux-x64.tar.gz
+- mv assetfinder /usr/bin/
 
-sudo apt install sslscan 
-The next step is to identify the SSL Ciphers that are supported by the webserver: sslscan http://target/ | grep Accep
+- wget github.com/OWASP/Amass/releases/download/v3.10.5/amass_linux_amd64.zip
+- mv amass /usr/bin/
+<!-- Check [AMASS latest](//github.com/OWASP/Amass/releases/tag/v3.10.5) -->
+
+- wget github.com/projectdiscovery/subfinder/releases/download/v2.4.5/subfinder_2.4.5_linux_amd64.tar.gz
+- sudo tar -xzvf subfinder_2.4.5_linux_amd64.tar.gz
+- mv subfinder /usr/bin/
+
+- wget github.com/projectdiscovery/nuclei/releases/download/v2.2.0/nuclei_2.2.0_linux_amd64.tar.gz
+- sudo tar -xzvf nuclei-linux-amd64.tar.gz
+- mv nuclei /usr/local/bin/
+
+- wget github.com /ffuf/ffuf/releases/download/v1.1.0/ffuf_1.1.0_linux_amd64.tar.gz
+- sudo tar -xzvf ffuf_1.1.0_linux_amd64.tar.gz
+- mv ffuf /usr/bin/
+
+- wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip
+- unzip SecList.zip
+- mv SecList /usr/bin/
+
+- wget gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056/archive/96f4e51d96b2203f19f6381c8c545b278eaa0837.zip
+<!-- Get haddix subdomin bruteforce list: -->
+
+<!-- - 
+  Change SSH locally to keep alive connections, add to `/etc/ssh/sshd_config`: 
+  ClientAliveInterval 300
+  ClientAliveCountMax 2` 
+-->
 
