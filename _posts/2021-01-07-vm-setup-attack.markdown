@@ -58,6 +58,16 @@ scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts
 - mv SecList /usr/bin/
 
 - wget gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056/archive/96f4e51d96b2203f19f6381c8c545b278eaa0837.zip
+
+- VPN/PROXYCHAINS?
+- https://openvpn.net/quick-start-guide/
+- https://medium.com/cyberxerx/how-to-setup-proxychains-in-kali-linux-by-terminal-618e2039b663
+- https://medium.com/@sukhdevkumar/how-to-hide-your-public-ip-address-kali-linux-e7ee282a33be
+- http://www.techt
+
+- openVPN tutorial: https://www.kalilinux.in/2019/12/own-vpn-server-on-kali-linux-openvpn-in-kali.html
+
+
 <!-- Get haddix subdomin bruteforce list: -->
 
 <!-- - 
