@@ -20,6 +20,7 @@ Some nice sources:
 - [Reddit](https://www.reddit.com)
 - [Scripting News](http://scripting.com/)
 - [SecNews](//en.secnews.gr/)
+- [Secret Club](//secret.club/)
 
 - [Geoff - nice blog](https://www.potaroo.net/)
 - [Bjarne - nice blog](http://www.stroustrup.com/index.html)
@@ -81,6 +82,10 @@ List of cool movies/documentaries:
 - [Brexit Uncivil War](https://www.channel4.com/programmes/brexit-the-uncivil-war)
 - [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
 - [Sleeper Cell](https://www.imdb.com/title/tt0465353/)
+- [Offical Secrets]
+- [Trial of chicago 7]
+- [Vice]
+- 
 
 
 - South Park | Simpsons | Family Guy 

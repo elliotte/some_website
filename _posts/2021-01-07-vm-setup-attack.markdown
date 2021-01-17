@@ -10,12 +10,24 @@ Download a file:
 scp -i eg-file azureuser@0.0.0.0:/home/azureuser/goldman/hosts /Users/johnmckay/Desktop/
 scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts /Users/johnmckay/recon/smartsheet/
 
+- 
+
+- `sudo apt install -y golang` or `sudo apt install golang-go`
+- sudo apt install apache2
+- git clone https://github.com/0xdekster/deksterecon.git
+- cd deksterecon
+- chmod +x install.sh then `./install.sh`
+
+Installs httprobe / Subfinder / MassDNS / Dirsearch / Amass
+
+>>
+
 - sudo apt-get install nmap
 - sudo apt-get install ffuf
 - sudo apt-get install sslscan
 - sudo apt install git
 
-- sudo apt install -y golang
+- `sudo apt install -y golang` or `sudo apt install golang-go`
   - Add the following to your .bashrc 
   `export GOROOT=/usr/lib/go
    export GOPATH=$HOME/go
@@ -56,6 +68,12 @@ scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts
 - wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip
 - unzip SecList.zip
 - mv SecList /usr/bin/
+
+- git clone https://github.com/robertdavidgraham/masscan
+- sudo apt-get --assume-yes install git make gcc
+- cd masscan
+
+- load resolvedns bash
 
 - wget gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056/archive/96f4e51d96b2203f19f6381c8c545b278eaa0837.zip
 
