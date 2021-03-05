@@ -7,10 +7,11 @@ video: false
 ---
 
 Download a file:
-scp -i eg-file azureuser@0.0.0.0:/home/azureuser/goldman/hosts /Users/johnmckay/Desktop/
+scp -i eg-file azureuser@0.0.0.0:/home/azureuser/ss/hosts /Users/johnmckay/Desktop/
 scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts /Users/johnmckay/recon/smartsheet/
+`scp -r RA_key.pem azureuser@52.152.163.43:/home/azureuser/ss/ ~/.`
 
-- 
+`sudo scp -i RA_key.pem azureuser@52.152.163.43:/home/azureuser/ss/* ~/Desktop/recon/goldman/`
 
 - `sudo apt install -y golang` or `sudo apt install golang-go`
 - sudo apt install apache2
@@ -19,8 +20,6 @@ scp -i ReconandAttack_key.pem azureuser@0.0.0.0:/home/azureuser/smartsheet/hosts
 - chmod +x install.sh then `./install.sh`
 
 Installs httprobe / Subfinder / MassDNS / Dirsearch / Amass
-
->>
 
 - sudo apt-get install nmap
 - sudo apt-get install ffuf

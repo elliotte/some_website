@@ -21,6 +21,7 @@ Some nice sources:
 - [Scripting News](http://scripting.com/)
 - [SecNews](//en.secnews.gr/)
 - [Secret Club](//secret.club/)
+- [Media Content Research](//archive.org/details/pub_editor-publisher)
 
 - [Geoff - nice blog](https://www.potaroo.net/)
 - [Bjarne - nice blog](http://www.stroustrup.com/index.html)
@@ -54,6 +55,7 @@ Some nice sources:
 - [Unfiltered flight data](https://www.adsbexchange.com/)
 - [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
+- [Floyd on France](//www.bbc.co.uk/iplayer/episodes/b03j86yd/floyd-on-france)
 
 List of cool movies/documentaries:
 

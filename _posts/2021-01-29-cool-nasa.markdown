@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "How is NASA using open MCT?"
+date:   2021-01-29
+categories:  cool technology software code internet nasa science
+video: false
+---
+
+Open MCT is a next-generation mission operations data visualization framework. Web-based, for desktop and mobile.
+
+[link](//nasa.github.io/openmct/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Astronomers Say Global Myths About ‘Seven Sisters’ Stars May Reach Back 100,000 Years"
+title:  "Alternative bounty sites with decentralized ethos"
 date:   2021-01-17
 categories: code blockchain programming software web economics
 video: false
