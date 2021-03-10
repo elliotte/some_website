@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Common Nginx misconfigurations that leave your web server open to attack"
-date:   2021-02-28
+date: 2021-02-28
 categories: code web software networking programming hacking
 video: false
 ---

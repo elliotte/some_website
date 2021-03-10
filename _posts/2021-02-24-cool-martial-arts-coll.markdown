@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Historical literature collection of martial arts texts"
-date:   2021-02-23
+date: 2021-02-23
 categories: cool history fun arts
 video: false
 ---

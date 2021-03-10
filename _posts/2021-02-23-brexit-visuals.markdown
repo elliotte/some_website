@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visualizing The Consequences Of The UK's Brexit Strategy"
+title:  "Visualizing The Consequences Of The UKs Brexit Strategy"
 date:   2021-02-17
 categories: business economics uk money politics
 video: false

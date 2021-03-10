@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Miss Monique - YearMix 2020"
-date:   2021-02-17
+title: "Miss Monique - YearMix 2020"
+date: 2021-02-17
 categories: music techno vibes
 video: true
 vid_link: //www.youtube.com/embed/Bi11Iid2hmo

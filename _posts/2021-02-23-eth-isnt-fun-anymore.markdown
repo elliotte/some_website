@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethereum isnt fun anymore"
-date:   2021-02-23
+date: 2021-02-23
 categories: code software programming ethereum suits corporate
 video: false
 ---
