@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Speeding up SQL queries by orders of magnitude using UNION"
+date:   2021-03-21
+categories: database sql software code programming
+video: false
+---
+
+Great talk through and nice SQL code.
+
+[Link](//www.foxhound.systems/blog/sql-performance-with-union/)
