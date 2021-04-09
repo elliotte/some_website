@@ -22,7 +22,6 @@ Some nice sources:
 - [SecNews](//en.secnews.gr/)
 - [Secret Club](//secret.club/)
 - [Media Content Research](//archive.org/details/pub_editor-publisher)
-
 - [Geoff - nice blog](https://www.potaroo.net/)
 - [Bjarne - nice blog](http://www.stroustrup.com/index.html)
 
@@ -40,6 +39,7 @@ Some nice sources:
 
 - [FinanceFees](https://financefeeds.com/)
 - [Bellingcat](https://www.bellingcat.com/)
+- [BellingCat OSINT Tools](//bit.ly/bcattools)
 
 - [OpenSecrets.org](http://www.opensecrets.org/)
 - [Edgar Search Tools](https://www.sec.gov/edgar/searchedgar/webusers.htm)
@@ -55,7 +55,6 @@ Some nice sources:
 - [Unfiltered flight data](https://www.adsbexchange.com/)
 - [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
-- [Floyd on France](//www.bbc.co.uk/iplayer/episodes/b03j86yd/floyd-on-france)
 
 List of cool movies/documentaries:
 
@@ -84,11 +83,12 @@ List of cool movies/documentaries:
 - [Brexit Uncivil War](https://www.channel4.com/programmes/brexit-the-uncivil-war)
 - [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
 - [Sleeper Cell](https://www.imdb.com/title/tt0465353/)
-- [Offical Secrets]
-- [Trial of chicago 7]
-- [Vice]
-- 
-
+- [Offical Secrets]()
+- [Trial of chicago 7]()
+- [Vice]()
+- [Opertion Odessa]()
+- [Fauda]()
+- [Floyd on France](//www.bbc.co.uk/iplayer/episodes/b03j86yd/floyd-on-france)
 
 - South Park | Simpsons | Family Guy 
 
