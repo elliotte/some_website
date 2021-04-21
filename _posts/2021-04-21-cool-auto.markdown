@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Logging Virtual Race Results with Selenium, Cron and Python"
+date:   2021-04-21
+categories: code programming tools learning fun
+video: false
+---
+
+Nice.
+
+[Link](//kellyfoulk.herokuapp.com/post/7)

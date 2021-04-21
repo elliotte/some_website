@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A framework for real-time applications and REST APIs with JavaScript and TypeScript"
+date:   2021-04-20
+categories: code programming tools hacking open-source javascript framework
+video: false
+---
+
+Neat.
+
+Feathers can interact with any backend technology, supports over a dozen databases and works with any frontend technology like React, VueJS, Angular, React Native, Android or iOS.
+
+[Link](//github.com/feathersjs/feathers)
