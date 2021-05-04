@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Why is F34 the Most Popular Fedora Linux in Years?"
+date:   2021-05-04
+categories: web linux code os learning fedora programming
+video: false
+---
+
+In a possibly related note, Linus Torvalds said this week in a new interview that "I use Fedora on all my machines, not because it's necessarily 'preferred', but because it's what I'm used to. I don't care deeply about the distribution — to me it's mainly a way to get Linux installed on a machine and get all my tools set up, so that I can then replace the kernel and work on just that."
+
+[Link](//linux.slashdot.org/story/21/05/03/0025246/why-is-f34-the-most-popular-fedora-linux-in-years)
+

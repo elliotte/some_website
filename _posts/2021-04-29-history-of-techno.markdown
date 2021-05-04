@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Definitive History of Techno"
-date:   2020-04-29
+date:   2021-04-29
 categories: music soul techno tunes house dj history fun learning
 video: false
 ---

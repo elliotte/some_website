@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Opera Integrates Blockchain-Powered Domains, Providing Access to the Decentralized Web"
-date:   2020-05-03
+date:   2021-05-03
 categories: web cool programming code technology software blockchain
 video: false
 ---
