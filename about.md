@@ -9,6 +9,13 @@ Some nice sources:
 [IbizaSonica](http://ibizasonica.com/) | [IbizaGlobalTv](http://ibizaglobal.tv/)
 [Wick Radio](https://hackneywicked.co.uk/venues/wick-radio/) | [wwwoz.com](http://wwwoz.com/)
 
+[ClownJuice](https://www.mixcloud.com/clownjuice/)
+[Arman Affai](https://www.mixcloud.com/armannafeei/)
+[Miss Monique]()
+[Soulelection]()
+[We are on Air](https://areweonair.com/)
+
+
 - [Ruby Weekly](https://rubyweekly.com/)
 - [JS Weekly](https://javascriptweekly.com/)
 
@@ -28,6 +35,7 @@ Some nice sources:
 - [Customer Commons](//customercommons.org/blog/)
 - [Moon of Alabama](//www.moonofalabama.org/)
 - [Dominic Cummings](//dominiccummings.com/)
+- [DC Twitter](//twitter.com/Dominic2306)
 
 - [WayBackMachine](https://archive.org/)
 - [JS Linux Emulator](http://s-macke.github.io/jor1k/demos/main.html)
