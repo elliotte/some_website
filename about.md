@@ -19,6 +19,9 @@ Some nice sources:
 - [Ruby Weekly](https://rubyweekly.com/)
 - [JS Weekly](https://javascriptweekly.com/)
 
+- [pocorgtfo](//www.alchemistowl.org/pocorgtfo/)
+- [h4ck1ng](//lude.rs/h4ck1ng/)
+
 - [SlashDot](https://slashdot.org/)
 - [HN](https://news.ycombinator.com/)
 - [ZeroHedge](https://www.zerohedge.com/)
