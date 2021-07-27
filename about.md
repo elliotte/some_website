@@ -66,6 +66,7 @@ Some nice sources:
 - [Unfiltered flight data](https://www.adsbexchange.com/)
 - [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
+-[torpar](//github.com/varbhat/torpar) is TUI client for Torrent Paradise.  - [Torrent Paradise](//torrent-paradise.ml/) is Decentralized DHT Torrent Search Site
 
 List of cool movies/documentaries:
 
