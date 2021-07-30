@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary of links - China Reform, Saudi Ex-Spymaster, Soil Science, 2nd Amendment, Canada, Alan Turing, Javascript Loop and more"
+title:  "Summary of links - LTE and 5g networks, simple media server, Goomics, Muler search, gut problems"
 date:   2021-07-29
-categories: business science code learning summary money law history
+categories: networking diet learning fun summary software programming code
 video: false
 ---
 
