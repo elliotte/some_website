@@ -17,6 +17,6 @@ video: false
 
 [A self-hosted, ad-free, privacy-respecting metasearch engine](//github.com/benbusby/whoogle-search)
 
-[OpenSource CNC Machine - Polar Bear](//www.kadirilkimen.com/thepolarbear/), very cool!! Should get
+[OpenSource CNC Machine - Polar Bear](//www.kadirilkimen.com/thepolarbear/), very cool!! Should get [github](//github.com/kadirilkimen/Polar-Bear-Cnc-Machine)
 
 [Linux Kernal Programming Guide](//sysprog21.github.io/lkmpg/)

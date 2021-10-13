@@ -21,6 +21,7 @@ Some nice sources:
 
 - [pocorgtfo](//www.alchemistowl.org/pocorgtfo/)
 - [h4ck1ng](//lude.rs/h4ck1ng/)
+- [Phrack](//phrack.org/)
 
 - [SlashDot](https://slashdot.org/)
 - [HN](https://news.ycombinator.com/)
@@ -34,6 +35,9 @@ Some nice sources:
 - [Media Content Research](//archive.org/details/pub_editor-publisher)
 - [Geoff - nice blog](https://www.potaroo.net/)
 - [Bjarne - nice blog](http://www.stroustrup.com/index.html)
+- [Science Hobbyist](//amasci.com/)
+- [IM1776](//im1776.com/all-posts/)
+- [George Hilliard - nice blog](//www.thirtythreeforty.net/about/)
 
 - [Customer Commons](//customercommons.org/blog/)
 - [Moon of Alabama](//www.moonofalabama.org/)
@@ -66,7 +70,7 @@ Some nice sources:
 - [Unfiltered flight data](https://www.adsbexchange.com/)
 - [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
--[torpar](//github.com/varbhat/torpar) is TUI client for Torrent Paradise.  - [Torrent Paradise](//torrent-paradise.ml/) is Decentralized DHT Torrent Search Site
+- [torpar](//github.com/varbhat/torpar) is TUI client for Torrent Paradise.  - [Torrent Paradise](//torrent-paradise.ml/) is Decentralized DHT Torrent Search Site
 
 List of cool movies/documentaries:
 
@@ -101,6 +105,15 @@ List of cool movies/documentaries:
 - [Opertion Odessa]()
 - [Fauda]()
 - [Floyd on France](//www.bbc.co.uk/iplayer/episodes/b03j86yd/floyd-on-france)
+- [Nobody]()
+- [Once Upon a time in Holywood]()
+- [Irishman]()
+- [Spaced]()
+- [First Man]()
+- [John Adams]()
+- [Mile 22]()
+- [Respect](//www.imdb.com/title/tt2452150/)
+
 
 - South Park | Simpsons | Family Guy 
 
