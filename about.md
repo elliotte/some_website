@@ -11,10 +11,10 @@ Some nice sources:
 
 [ClownJuice](https://www.mixcloud.com/clownjuice/)
 [Arman Affai](https://www.mixcloud.com/armannafeei/)
-[Miss Monique]()
-[Soulelection]()
+[Miss Monique](https://soundcloud.com/alesia-arkusha)
+[Soulelection](https://soundcloud.com/soulection)
 [We are on Air](https://areweonair.com/)
-
+[Alif](//soundcloud.com/elifmusique)
 
 - [Ruby Weekly](https://rubyweekly.com/)
 - [JS Weekly](https://javascriptweekly.com/)
