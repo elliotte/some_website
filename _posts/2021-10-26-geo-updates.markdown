@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We fucked it"
+title:  "EU bribe poland, Climate change 150 trillion, China market falls"
 date:   2021-10-26
 categories: economics money business crime corruption EU UK news
 video: false

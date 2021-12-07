@@ -71,6 +71,8 @@ Some nice sources:
 - [Aleph, data analysis tools for investigators](https://docs.alephdata.org/)
 - [HiddenVM](https://github.com/aforensics/HiddenVM)
 - [torpar](//github.com/varbhat/torpar) is TUI client for Torrent Paradise.  - [Torrent Paradise](//torrent-paradise.ml/) is Decentralized DHT Torrent Search Site
+- [arXiv](//arxiv.org/) -  free distribution service and an open-access archive for 1,983,045 scholarly articles
+- [Aviation Geek Club](//theaviationgeekclub.com/)
 
 List of cool movies/documentaries:
 
