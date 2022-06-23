@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Cend.me, bare-metal Kubernetes cluster on Raspberry Pi, Fingerprint hacking, REPL, remix MVP, Lora from moon"
+title:  "POC journal, first 5mins on a server, vintage server room, kryptology, att engineering maps, httptoolkit, radio hacking, radio construction pow camp, uniz IO tools"
 date:   2021-12-07
-categories: bitcoin pinephone hacking doom javascript binary reversing
+categories: bitcoin pinephone hacking doom javascript binary reversing unix radio-hacking
 video: false
 ---
 
