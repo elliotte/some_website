@@ -26,6 +26,8 @@ https://www.exoticsilicon.com/crystal/pinephone_openbsd
 https://www.hypro.se/en/importagents
 https://www.poisonpapers.org/the-poison-papers/
 https://www.xfive.co/blog/snowboarding-ultimate-guide/
+https://www.insidescience.org/news/how-famines-and-epidemics-trigger-wars
+https://venturebeat.com/2015/03/20/at-68-bernie-stolar-is-still-running-ambitious-game-startups/
 
 https://www.zerohedge.com/geopolitical/china-builds-27-empty-new-york-cities
 https://www.zerohedge.com/geopolitical/escobar-follow-money-how-russia-will-bypass-western-economic-warfare

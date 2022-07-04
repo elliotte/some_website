@@ -22,6 +22,7 @@ Some nice sources:
 - [pocorgtfo](//www.alchemistowl.org/pocorgtfo/)
 - [h4ck1ng](//lude.rs/h4ck1ng/)
 - [Phrack](//phrack.org/)
+- [Security Blog](//latacora.micro.blog/)
 
 - [SlashDot](https://slashdot.org/)
 - [HN](https://news.ycombinator.com/)
