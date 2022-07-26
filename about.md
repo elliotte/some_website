@@ -117,6 +117,9 @@ List of cool movies/documentaries:
 - [John Adams]()
 - [Mile 22]()
 - [Respect](//www.imdb.com/title/tt2452150/)
+- [Uncut Gems]()
+- [The Courier]()
+- [Whiplash]()
 
 
 - South Park | Simpsons | Family Guy 
