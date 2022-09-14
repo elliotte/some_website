@@ -75,6 +75,7 @@ Some nice sources:
 - [arXiv](//arxiv.org/) -  free distribution service and an open-access archive for 1,983,045 scholarly articles
 - [Aviation Geek Club](//theaviationgeekclub.com/)
 - [n-o-d-e.net](//n-o-d-e.net/index.html) - awesomeness.
+- [Anonymous Search Engine](https://www.tuxdex.com/)
 
 List of cool movies/documentaries:
 
@@ -120,6 +121,9 @@ List of cool movies/documentaries:
 - [Uncut Gems]()
 - [The Courier]()
 - [Whiplash]()
+- [The Gray Man]()
+- [Polar]()
+- [Starter 10]()
 
 
 - South Park | Simpsons | Family Guy 
