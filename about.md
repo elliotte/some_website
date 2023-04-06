@@ -32,6 +32,7 @@ Some nice sources:
 - [Reddit](https://www.reddit.com)
 - [Scripting News](http://scripting.com/)
 - [SecNews](//en.secnews.gr/)
+- [SciNews](https://www.sci.news/)
 - [Secret Club](//secret.club/)
 - [Media Content Research](//archive.org/details/pub_editor-publisher)
 - [Geoff - nice blog](https://www.potaroo.net/)
@@ -124,7 +125,9 @@ List of cool movies/documentaries:
 - [The Gray Man]()
 - [Polar]()
 - [Starter 10]()
-
+- [Women in Gold]()
+- [Body of Lies]()
+- [Slumdog Millionaire]()
 
 - South Park | Simpsons | Family Guy 
 
