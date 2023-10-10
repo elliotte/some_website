@@ -23,3 +23,9 @@ https://theresanaiforthat.com/
 https://rs-ojict.pubpub.org/pub/lqhigiva/release/2
 https://www.economist.com/leaders/2023/04/13/the-lessons-from-americas-astonishing-economic-record
 https://oldbytes.space/@kenshirriff/110209305209920677
+
+https://www.pagetable.com/?p=39
+https://www.lefineder.com/p/when-did-people-stop-being-drunk
+https://www.zerohedge.com/geopolitical/escobar-first-we-go-moscow-then-we-take-beijing
+https://twitter.com/extremetemps/status/1686485331539820545
+https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/

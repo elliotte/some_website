@@ -77,6 +77,7 @@ Some nice sources:
 - [Aviation Geek Club](//theaviationgeekclub.com/)
 - [n-o-d-e.net](//n-o-d-e.net/index.html) - awesomeness.
 - [Anonymous Search Engine](https://www.tuxdex.com/)
+- [The Beginner's Guide to Aeronautics ](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 
 List of cool movies/documentaries:
 
@@ -128,6 +129,9 @@ List of cool movies/documentaries:
 - [Women in Gold]()
 - [Body of Lies]()
 - [Slumdog Millionaire]()
+- [Made in America]()
+- [Oppenhimer]()
+- [Babylon]()
 
 - South Park | Simpsons | Family Guy 
 
