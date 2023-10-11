@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life as a roman lawyer and networking rack article"
+title:  "tcp sockets, open source android, pineapple-one, japan tax, open source red alert"
 date:   2023-07-11
 categories: code software security hacking networking
 video: false
