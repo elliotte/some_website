@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Is The Wildest Market I've Ever Seen": Druckenmiller's Must-See Goldman Interview"
+title:  "This Is The Wildest Market I've Ever Seen, Druckenmiller's Must-See Goldman Interview"
 date:   2021-02-07
 categories: business economics money markets investing
 video: false
