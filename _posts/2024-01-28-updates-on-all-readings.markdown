@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self hosted DNS, terminal browser, hacking, ruby updates, secret service fiat money, solar energy efficiency jump and desilation"
-date:   2023-07-11
+date:   2024-01-30
 categories: code software security hacking networking history solar politics water
 video: false
 ---
