@@ -7,13 +7,25 @@ permalink: /about/
 Some nice sources:
 
 [IbizaSonica](http://ibizasonica.com/) | [IbizaGlobalTv](http://ibizaglobal.tv/)
+
 [Wick Radio](https://hackneywicked.co.uk/venues/wick-radio/) | [wwwoz.com](http://wwwoz.com/)
 
 [ClownJuice](https://www.mixcloud.com/clownjuice/)
+
 [Arman Affai](https://www.mixcloud.com/armannafeei/)
+
 [Miss Monique](https://soundcloud.com/alesia-arkusha)
+
 [Soulelection](https://soundcloud.com/soulection)
+
+[Sasha Maria](https://soundcloud.com/sashasashamarie)
+
+[Yukibeb](https://soundcloud.com/yukibeb)
+
+[SoSuperSam](https://soundcloud.com/sosupersammusic)
+ 
 [We are on Air](https://areweonair.com/)
+
 [Alif](//soundcloud.com/elifmusique)
 
 - [Ruby Weekly](https://rubyweekly.com/)
