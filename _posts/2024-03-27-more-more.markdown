@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "More hacking and other software.."
+date:   2024-03-01
+categories: code software security hacking networking history solar politics water
+video: false
+---
+
+
+Good fuzzing article [here](https://secret.club/2022/05/11/fuzzing-solana.html)
+Timeline of xy hack [here](https://research.swtch.com/xz-timeline) and [here](https://research.swtch.com/xz-script)
+Open-source radar very cool tut [here](https://hforsten.com/homemade-6-ghz-pulse-compression-radar.html)
+Good hacking analysis [here](https://pwning.tech/nftables/)
+Neat hacking poc [here](https://github.com/Notselwyn/CVE-2024-1086?tab=readme-ov-file)
+notes, honeypot, and exploit demo for the xz backdoor demo [here](https://github.com/amlweems/xzbot), also has patch
+
+https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/
+
+
+Very cool telnet games [here](https://thenewstack.io/the-lost-worlds-of-telnet/)
+
+Good article on money collapsing using daffy duck trading fish to show you how to sell useless junk [here](https://www.zerohedge.com/personal-finance/single-wisest-thing-you-can-do-your-money)
+EU censorship [here](https://www.zerohedge.com/geopolitical/brussels-begins-mobilise-its-mass-censorship-regime-upcoming-eu-elections)
+
+Mad serial killer cipher story [here](https://arxiv.org/abs/2403.17350)
+Int story on 1st prirate radio station [here](https://www.historytoday.com/miscellanies/original-pirate-material)
+
+https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md
+https://www.gettyimages.in/detail/video/at-the-first-hackers-conference-in-1984-steve-wozniak-and-news-footage/146496695
+
+https://www.youtube.com/watch?v=fOCWBhuDdDo
+https://www.qedcat.com/moviemath/index.html
+https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/
+https://trader.degiro.nl/login/uk?redirectUrl=https%3A%2F%2Ftrader.degiro.nl%2Ftrader%2F%23%2Fproducts%2F18066484%2Foverview
+https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/
+https://metallicman.com/index-china-majestic-mj12-government-happiness-life-comparisions-mysteries-ooparts-secrets-2/
+https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks
+https://pine64.org/2024/03/17/march-update-making-waves/
+https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/
+https://github.com/xai-org/grok-1
+https://hakaimagazine.com/features/bats-of-the-midnight-sun/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/
+https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=1119282_tetm6245.f3.jpg
+https://env.fail/posts/firewreck-1/
+https://www.zerohedge.com/crypto/boden-tremp-memecoins-we-deserve-financializing-attention
+https://www.zerohedge.com/crypto/blackrock-seeds-ethereum-backed-digital-liquidity-fund-100-million
+https://www.zerohedge.com/geopolitical/escobar-its-war-real-meat-grinder-starts-now
+https://notgull.net/why-not-threads/
+https://rachelbythebay.com/w/2024/03/21/scan/
+https://www.starlinkmap.org/
+https://thenewstack.io/the-lost-worlds-of-telnet/
+https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/
+
+https://github.com/Notselwyn/CVE-2024-1086?tab=readme-ov-file
+https://lcamtuf.substack.com/p/radios-how-do-they-work
+https://phys.org/news/2024-03-astronomers-galaxies-hours.html
+https://techxplore.com/news/2024-03-electrochemistry-electronic-recycling-precious-metal.html
+https://eclecticlight.co/2024/03/27/happy-birthday-apfs-7-years-old-today/
+https://www.annwan.me/computers/what-why-how-containers/
+
+https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/
+https://cliffle.com/blog/who-killed-the-network-switch/
+https://www.zerohedge.com/markets/western-economy-has-rotted-away-tipping-point-generation-neoliberal-economic-theory
+https://www.zerohedge.com/markets/chinas-xi-meets-us-ceos-including-blackstones-schwarzman-bid-restore-confidence
+https://phys.org/news/2024-03-geologic-european-rover-mars.html
+
+https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon
+https://www.karwansaraypublishers.com/en-gb/blogs/ancient-warfare-blog/mycenaean-warriors-and-the-sea-peoples
+https://github.com/pufferffish/wireproxy
+https://news.ycombinator.com/item?id=39894148
+https://research.swtch.com/xz-timeline
+https://www.politico.eu/article/britain-big-tech-house-of-lords-digital-markets-bill-online-safety-act-dido-harding-chris-holmes-beeban-kidron-tim-clement-jones-maggie-jones/?utm_source=pocket-newtab-en-gb
+https://www.zerohedge.com/political/these-are-countries-lowest-corporate-tax-rates
+https://www.zerohedge.com/geopolitical/brussels-begins-mobilise-its-mass-censorship-regime-upcoming-eu-elections
+https://www.zerohedge.com/geopolitical/escobar-sahels-axis-resistance
+https://github.com/amalshaji/portr
+https://arxiv.org/abs/2403.17350
+https://giam.southernct.edu/GIAM/
+https://www.zerohedge.com/personal-finance/single-wisest-thing-you-can-do-your-money
+https://www.zerohedge.com/commodities/federal-reserve-refuses-provide-records-foreign-gold-holdings
+https://phys.org/
+https://phys.org/news/2024-04-propelling-atomically-layered-magnets-green.html
+https://www.zerohedge.com/crypto/solana-struggles-record-75-user-txs-are-failing-or-are-they
+https://posit-dev.github.io/great-tables/blog/design-philosophy/
+
+
