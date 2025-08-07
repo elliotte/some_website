@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "A few adds"
+date:   2025-05-24
+categories: tech code science culture history geo hacking
+video: false
+---
+
+http://www.textfiles.com/uploads/thecipher.txt
+https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
+
+https://github.com/jaypyles/Scraperr
+https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md
+
+https://habr.com/en/articles/905812/
+https://idiallo.com/blog/zipbomb-protection
+https://insideevs.com/features/759153/car-companies-software-companies/
+https://mrbruh.com/asusdriverhub/
+https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8/
+https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/
+https://pgdog.dev/blog/hacking-postgres-wire-protocol
+https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html
+https://sifter.org/~simon/journal/20240718.html
+https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/
+https://technistuff.com/history-from-space/
+https://university.apisec.ai/login
+https://www.historytoday.com/archive/behind-times/ghosts-gaelic
+https://www.youtube.com/watch?v=0aScMQIp9KA
+
+https://www.zerohedge.com/geopolitical/houthis-claim-3rd-mq-9-reaper-drone-downing-ten-days
+https://www.zerohedge.com/geopolitical/spanish-power-outage-catastrophe-created-political-design-warning-world
+https://www.zerohedge.com/sponsored-post/playing-fire-mises-institute-film-federal-reserve
+https://www.zerohedge.com/technology/decade-plus-successes-spacex-and-us-space-programs
+https://www.zerohedge.com/food/green-new-steal-meets-drill-baby-drill-farmland-caught-crosshairs

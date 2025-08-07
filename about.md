@@ -144,6 +144,29 @@ List of cool movies/documentaries:
 - [Made in America]()
 - [Oppenhimer]()
 - [Babylon]()
+- [Wild Geese](https://en.wikipedia.org/wiki/The_Wild_Geese)
+- [Anthropoid](https://en.wikipedia.org/wiki/Anthropoid_(film))
+- [Money monster]()
+- [Missippi Burning]()
+- [The Burial]()
+- [Dark Waters]()
+- [Cannonball Run](https://en.wikipedia.org/wiki/The_Cannonball_Run)
+- [Blackkklansman](https://en.wikipedia.org/wiki/BlacKkKlansman)
+- [Lion of the Desert](https://www.imdb.com/title/tt0081059/)
+- [Duck you Sucker]()
+- [Waiting For The Barbarians]()
+- [Rolling Thunder]()
+- [THe player](https://www.imdb.com/title/tt0105151/?ref_=fn_all_ttl_1)
+- [Misconduct](https://www.imdb.com/title/tt3658772/)
+- [A few dollars more]()
+- [Air Jordan]()
+- [Chaplin]()
+- [Operation Mincemeat]()
+- [Once upone a time in Mexico]()
+- [Righteous kill]()
+- [State of Grace](https://www.imdb.com/title/tt0100685/)
+
+
 
 - South Park | Simpsons | Family Guy 
 
