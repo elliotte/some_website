@@ -1,99 +1,48 @@
 ---
 layout: default
 ---
+<section class="hero">
+  <p class="eyebrow">Collected since {{ site.posts.last.date | date: "%Y" }}</p>
+  <h1 class="hero-title">{{ site.description | escape }}</h1>
+  <p class="hero-sub">Links, reads, mixes and rabbit holes — <strong data-count>{{ site.posts.size }}</strong> entries and counting.</p>
 
-<iframe src="https://openweathermap.org/weathermap?basemap=map&cities=false&layer=clouds&lat=54.5959&lon=-5.9381&zoom=9" scrolling=no width=500 height=500 frameborder=no></iframe>
+  <div class="finder">
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search titles, tags, notes…" autocomplete="off" aria-label="Search posts">
+      <kbd>/</kbd>
+    </label>
+    <div class="chips" id="chips" aria-label="Filter by tag"></div>
+  </div>
+</section>
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{{ content }}
 
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Logged" }}</h2>
-    <ul id="top-of-list" class="post-list">
-      {%- for post in site.posts -%}
-      <li class="post-hook">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <br>
-          {% for cat in post.categories %}
-            <span class="cat-tags {{ cat }}">{{ cat }}</span>
-          {% endfor %}
-        </h3>
-        {%- if site.show_excerpts -%}
-          <span>{{ cat }} {{ post.excerpt }}</span>
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+<div class="post-list" id="posts">
+  {%- assign current_year = "" -%}
+  {%- for post in site.posts -%}
+    {%- assign year = post.date | date: "%Y" -%}
+    {%- if year != current_year -%}
+      {%- unless forloop.first %}</ol></section>{% endunless %}
+      <section class="year" data-year="{{ year }}">
+        <h2 class="year-label">{{ year }}</h2>
+        <ol>
+      {%- assign current_year = year -%}
+    {%- endif %}
+    <li class="entry" data-tags="{{ post.categories | join: ' ' | downcase }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time>
+      <div class="entry-body">
+        <a class="entry-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {%- if post.video %}<span class="badge">video</span>{% endif %}
+        {%- if site.show_excerpts %}
+        <p class="entry-excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 22 }}</p>
+        {%- endif %}
+        {%- if post.categories.size > 0 %}
+        <ul class="tags">{% for cat in post.categories %}<li><button type="button" data-tag="{{ cat | downcase }}">{{ cat }}</button></li>{% endfor %}</ul>
+        {%- endif %}
+      </div>
+    </li>
+    {%- if forloop.last %}</ol></section>{% endif -%}
+  {%- endfor %}
+  <p class="empty" id="empty" hidden>Nothing matches that. Try another word.</p>
 </div>
-
-<style>
-  .cat-tags {
-    color: white;
-    background: linear-gradient(to bottom, #ffccff 0%, #ff99cc 100%);
-    padding: 1%;
-    font-size: 80%;
-    border-radius: 10px;
-  }
-  .search-bar {
-    float: left;
-    text-align:center;
-    width: 20%;
-    margin: 5px;
-    border: 3px solid #00B4CC;
-    padding: 5px;
-    height: 60%;
-    border-radius: 5px 0 0 5px;
-    outline: none;
-    color: #9DBFAF;
-  }
-</style>
-
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
-
-
-<script>
-
-  console.log('nerd')
-  var bar = '<input type="text" class="search-bar" placeholder="Search..">'
-  $(".post-list-heading").prepend(bar)
-  $(bar).addClass(".search-bar")
-
-  //var totalPosts = document.getElementsByClassName(".post-meta");
-
-  $(".post-list-heading").append('<span style="font-size:50%;">' + '   Total: (' + $('.post-hook').length + ')' + '</span>')
-  console.log($('.post-hook').length);
-  //$(".post-list-heading").text('' + $('.post-hook').length + '')
-
-  $(document).on('keypress',function(e) {
-    if(e.which == 13) {
-        var searchTerm = $(".search-bar").val();
-        console.log(searchTerm)
-        var posts = document.getElementsByClassName(searchTerm);
-        
-
-        $(posts).map(function() {
-          console.log(this)
-          var hook = this.parentElement.parentElement
-          $(hook).css("background-color", "#FFDFD3");
-          $("#top-of-list").prepend(hook)
-          $(hook).addClass("post-meta")
-          $(this).addClass("cat-tags")
-        });
-    }
-  });
-  // POTENTIAL UI TOOL
-  // http://augmented-ui.com/
-</script>
