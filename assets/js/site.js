@@ -90,13 +90,37 @@
       try { return new URL(u, location.href).hostname.replace(/^www\./, ''); } catch (e) { return u; }
     }
 
+    // Titles/descriptions fetched ahead of time by scripts/fetch_link_meta.rb
+    var metaEl = document.getElementById('link-meta');
+    var linkMeta = {};
+    try { linkMeta = metaEl ? JSON.parse(metaEl.textContent) || {} : {}; } catch (e) {}
+
+    function card(url, title) {
+      var m = linkMeta[url] || {};
+      var li = document.createElement('li');
+      li.className = 'link-card';
+      var a = document.createElement('a');
+      a.href = url;
+      var s = document.createElement('strong'); s.textContent = title || m.title || host(url);
+      a.appendChild(s);
+      if (m.description) {
+        var d = document.createElement('span'); d.className = 'desc'; d.textContent = m.description;
+        a.appendChild(d);
+      }
+      var sm = document.createElement('small'); sm.textContent = host(url) + ' ↗';
+      a.appendChild(sm);
+      li.appendChild(a);
+      return li;
+    }
+    var carded = {};
+
     Array.prototype.slice.call(content.querySelectorAll('p')).forEach(function (p) {
       if (p.querySelector('a, img, code')) return;
       var lines = p.textContent.split('\n').map(function (s) { return s.trim(); }).filter(Boolean);
       var cards = [], title = null;
       for (var i = 0; i < lines.length; i++) {
         if (URL_RE.test(lines[i])) {
-          cards.push({ title: title || host(lines[i]), url: lines[i] });
+          cards.push({ title: title, url: lines[i] });
           title = null;
         } else if (title === null) {
           title = lines[i];
@@ -108,14 +132,8 @@
       var ul = document.createElement('ul');
       ul.className = 'link-cards';
       cards.forEach(function (c) {
-        var li = document.createElement('li');
-        li.className = 'link-card';
-        var a = document.createElement('a');
-        a.href = c.url;
-        var s = document.createElement('strong'); s.textContent = c.title;
-        var sm = document.createElement('small'); sm.textContent = host(c.url) + ' ↗';
-        a.appendChild(s); a.appendChild(sm);
-        li.appendChild(a); ul.appendChild(li);
+        carded[c.url] = true;
+        ul.appendChild(card(c.url, c.title));
       });
       p.replaceWith(ul);
     });
@@ -128,6 +146,26 @@
         var gone = next; next = next.nextElementSibling; gone.remove();
       }
     });
+
+    // Preview cards for inline links ("Article [here]") that have fetched details
+    var extras = [];
+    Array.prototype.forEach.call(content.querySelectorAll('a[href]'), function (a) {
+      var url = a.getAttribute('href');
+      if (carded[url] || a.closest('.link-cards')) return;
+      var m = linkMeta[url];
+      if (!m || !(m.title || m.description)) return;
+      carded[url] = true;
+      extras.push(url);
+    });
+    if (extras.length) {
+      var section = document.createElement('section');
+      section.className = 'post-links';
+      var h = document.createElement('h2'); h.textContent = extras.length > 1 ? 'Links in this post' : 'Link';
+      var list2 = document.createElement('ul'); list2.className = 'link-cards';
+      extras.forEach(function (u) { list2.appendChild(card(u)); });
+      section.appendChild(h); section.appendChild(list2);
+      content.after(section);
+    }
 
     // Linkify remaining bare URLs in text
     var walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {

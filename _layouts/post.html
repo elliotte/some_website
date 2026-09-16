@@ -24,6 +24,12 @@ layout: default
     {{ content }}
   </div>
 
+  {%- assign meta_key = page.path | split: '/' | last | split: '.' | first %}
+  {%- assign link_meta = site.data.link_meta[meta_key] %}
+  {%- if link_meta %}
+  <script type="application/json" id="link-meta">{{ link_meta | jsonify }}</script>
+  {%- endif %}
+
   <nav class="pager">
     {%- if page.previous %}
     <a class="prev" href="{{ page.previous.url | relative_url }}"><small>Older</small>{{ page.previous.title | escape }}</a>
