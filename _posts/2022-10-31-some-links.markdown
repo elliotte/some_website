@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TBC"
+title:  "Wifi spy drones, solar metal smelting, Caravaggio, HAKMEM"
 date:   2022-10-31
-categories: economics money waste farming cooking
+categories: hacking security history science solar
 video: false
 ---
 

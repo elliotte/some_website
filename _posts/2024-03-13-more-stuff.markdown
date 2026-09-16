@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "More hacking and other software.."
-date:   2024-03-01
-categories: code software security hacking networking history solar politics water
+title:  "Solana fuzzing bounty, a cable-modem SDR hack, and Kubernetes gripes"
+date:   2024-03-13
+categories: hacking security code networking history
 video: false
 ---
 

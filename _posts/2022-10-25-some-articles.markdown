@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "IFS, UK Bond blow up, Greek science, Matrix web cam, banks buy gold and amateur radio"
-date:   2022-07-15
-categories: economics money waste farming cooking
+title:  "Pirate archivists, Una Marson, wifi pineapple drones"
+date:   2022-10-25
+categories: history culture hacking security science
 video: false
 ---
 

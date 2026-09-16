@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updating the stuffs since we are all alive"
-date:   2024-07-24
-categories: code software security hacking networking history solar politics water
+title:  "Reverse engineering Ticketmaster, NFC subway chips, and plane wifi"
+date:   2024-07-17
+categories: hacking security code networking technology
 video: false
 ---
 

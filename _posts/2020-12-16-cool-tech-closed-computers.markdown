@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning notes from online videos (Hackerone)"
-date:   2020-12-15
+date:   2020-12-16
 categories: code software learning hacking programming
 video: false
 ---

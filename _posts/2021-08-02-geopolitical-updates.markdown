@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "American imperial decline, Davos and Tyranny, comparing tax per GDP"
-date:   2021-07-30
-categories: news world politics business corruption tax covid
+title:  "Politburos, Taliban in Tianjin, EU doomed, APT31 mesh hacking"
+date:   2021-08-02
+categories: world politics china corruption hacking
 video: false
 ---
 

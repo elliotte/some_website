@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Out of the top 50 games, 70% work on linux now"
+title:  "Lessons from 4 years in solitary confinement"
 date:   2021-03-26
-categories: code software gaming fun linux
+categories: life learning history culture
 video: false
 ---
 

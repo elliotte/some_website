@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why the next threat to bees is organized crime"
-date:   2020-02-19
+date:   2020-02-24
 categories: business bees nature economics
 video: false
 ---

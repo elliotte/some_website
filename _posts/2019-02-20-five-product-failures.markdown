@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Epic Consumer Product Design Failures"
-date:   2019-02-17 16:24:28 +0100
+date:   2019-02-20 16:24:28 +0100
 categories: technology product business startup money
 vid_link: false
 ---

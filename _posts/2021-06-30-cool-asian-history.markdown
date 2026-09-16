@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Ascendant Steppe - A brisk tour of the early history of Central Asia"
-date:   2021-06-22
+date:   2021-06-30
 categories: history asia cool learning fun
 video: false
 ---

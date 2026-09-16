@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Homicide Hotspots in Medieval London"
-date:   2021-01-27
+date:   2021-01-28
 categories:  history cool fun technology london
 video: false
 ---

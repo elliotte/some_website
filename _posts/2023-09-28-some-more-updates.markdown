@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "tcp sockets, open source android, pineapple-one, japan tax, open source red alert"
-date:   2023-07-11
+date:   2023-09-28
 categories: code software security hacking networking
 video: false
 ---

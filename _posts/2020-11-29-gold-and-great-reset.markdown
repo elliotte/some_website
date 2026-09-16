@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "UK Supreme Court Judge Slams Totalitarian COVID Control Freaks In Government"
+title:  "Gold, dollar debasement and the great reset"
 date:   2020-11-29
-categories: politics power corruption life
+categories: economics money finance history investing
 video: false
 ---
 

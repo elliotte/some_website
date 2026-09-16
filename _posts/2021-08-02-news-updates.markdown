@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "American imperial decline, Davos and Tyranny, comparing tax per GDP"
-date:   2021-07-30
-categories: news world politics business corruption tax covid
+date:   2021-08-02
+categories: news world politics corruption tax
 video: false
 ---
 

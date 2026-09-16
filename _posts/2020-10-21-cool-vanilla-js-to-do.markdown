@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Retool - raised 50M in two years"
-date:   2020-10-20
-categories: code technology software programming
+title:  "Vanilla JS to-do app clone with no build step"
+date:   2020-10-21
+categories: code javascript web programming tools
 video: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transmit data with the PC speaker"
-date:   2021-04-20
+date:   2021-04-21
 categories: code programming tools cool hacking learning fun
 video: false
 ---

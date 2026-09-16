@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "POC journal, first 5mins on a server, vintage server room, kryptology, att engineering maps, httptoolkit, radio hacking, radio construction pow camp, uniz IO tools"
-date:   2021-12-07
+date:   2021-12-23
 categories: bitcoin pinephone hacking doom javascript binary reversing unix radio-hacking
 video: false
 ---

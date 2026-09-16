@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guerilla Open Access and Aaron Swartz"
-date:   2021-10-26
+date:   2021-11-11
 categories: hacking code politics software
 video: false
 ---

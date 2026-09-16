@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Build a Bicycle Generator"
-date:   2020-10-20
+date:   2020-10-23
 categories: code technology wind-energy business hacks
 video: false
 ---

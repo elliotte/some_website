@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "More hacking and other software.."
-date:   2024-03-01
-categories: code software security hacking networking history solar politics water
+title:  "The xz utils backdoor, a homemade 6GHz radar, and CVE-2024-1086"
+date:   2024-03-27
+categories: hacking security code networking
 video: false
 ---
 

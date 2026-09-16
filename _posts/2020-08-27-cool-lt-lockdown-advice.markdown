@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Safety Over Freedom: How Governments Introduce Surveillance Under Veil of Coronavirus Control"
+title:  "Surviving long-term lockdown: essentials, barter and mutual aid"
 date:   2020-08-27
-categories: technology news government privacy law
+categories: life politics power government news
 video: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Billionaire Investor Charlie Munger Says US Should Learn From China's Authoritarianism"
-date:   2021-06-30
+date:   2021-07-06
 categories: software technology business world politics learning economics
 video: false
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updating more stuff...."
-date:   2024-08-06
-categories: interesting updates code software 
+title:  "DRAM EMFI root exploits, a Chrome sandbox escape, and Bop Spotter"
+date:   2024-09-16
+categories: hacking security code hardware solar
 video: false
 ---
 

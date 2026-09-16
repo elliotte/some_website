@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "IFS, UK Bond blow up, Greek science, Matrix web cam, banks buy gold and amateur radio"
-date:   2022-07-15
-categories: economics money waste farming cooking
+date:   2022-10-07
+categories: technology money world networking science
 video: false
 ---
 

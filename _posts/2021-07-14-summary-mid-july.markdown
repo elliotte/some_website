@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary of links - China Reform, Saudi Ex-Spymaster, Soil Science, 2nd Amendment, Canada, Alan Turing, Javascript Loop and more"
+title:  "China reform, Saudi ex-spymaster lawsuit and soil science"
 date:   2021-05-16
-categories: business science code learning summary money law history
+categories: china world science law history
 video: false
 ---
 

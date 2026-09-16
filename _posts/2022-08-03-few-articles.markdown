@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hackernews post on good free content by category"
-date:   2022-07-15
-categories: economics money waste farming cooking
+title:  "Linux routing, RTEMS RTOS, faster Ruby, Egyptian demons"
+date:   2022-08-03
+categories: code networking ruby history science
 video: false
 ---
 

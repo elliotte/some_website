@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""
+title:  "National debt myths, China food security, EU breakup, 9/11"
 date:   2021-09-15
-categories: history fun learning science business 
+categories: history politics world business economics
 video: false
 ---
 

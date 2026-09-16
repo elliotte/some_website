@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TBC"
+title:  "VPN on AWS Lightsail, OpenLLM and a history of the corporation"
 date:   2023-06-19
-categories: code software economics money waste history cooking
+categories: code hacking history economics technology
 video: false
 ---
 

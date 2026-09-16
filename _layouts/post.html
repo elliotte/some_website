@@ -1,44 +1,42 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+<article class="post h-entry">
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <a class="back" href="{{ '/' | relative_url }}">← All links</a>
+    <h1 class="post-title p-name">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-        {{ page.categories }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+      {%- if page.author %} · <span class="p-author">{{ page.author }}</span>{% endif %}
+    </p>
+    {%- if page.categories.size > 0 %}
+    <ul class="tags">{% for cat in page.categories %}<li><a href="{{ '/' | relative_url }}?tag={{ cat | downcase | uri_escape }}">{{ cat }}</a></li>{% endfor %}</ul>
+    {%- endif %}
   </header>
-  <div class="">
-    {%- if page.video -%}
-        <iframe class="spread-page" src="{{ page.vid_link }}" frameborder="0" allowfullscreen></iframe>
-    {%- endif -%}
-  </div>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  {%- if page.video and page.vid_link %}
+  <div class="video">
+    <iframe src="{{ page.vid_link }}" title="{{ page.title | escape }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  {%- endif %}
+
+  <div class="post-content e-content">
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {%- assign meta_key = page.path | split: '/' | last | split: '.' | first %}
+  {%- assign link_meta = site.data.link_meta[meta_key] %}
+  {%- if link_meta %}
+  <script type="application/json" id="link-meta">{{ link_meta | jsonify }}</script>
+  {%- endif %}
 
+  <nav class="pager">
+    {%- if page.previous %}
+    <a class="prev" href="{{ page.previous.url | relative_url }}"><small>Older</small>{{ page.previous.title | escape }}</a>
+    {%- else %}<span></span>{% endif %}
+    {%- if page.next %}
+    <a class="next" href="{{ page.next.url | relative_url }}"><small>Newer</small>{{ page.next.title | escape }}</a>
+    {%- endif %}
+  </nav>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
-
-
-<style>
-
-  .spread-page {
-    width: 100%;
-    height: 400px;
-  }
-.
-</style>

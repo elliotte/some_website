@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "xxxxxxxxxxxxxxx"
+title:  "LastPass master password hack, solar power history, Matrix CRDT"
 date:   2022-01-10
-categories: xxxxxx 
+categories: security history hacking technology solar
 video: false
 ---
 

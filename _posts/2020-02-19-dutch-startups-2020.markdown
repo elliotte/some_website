@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Top 20 dutch startups to watch 2020"
-date:   2020-02-18
+date:   2020-02-19
 categories: business software code startup
 video: false
 ---

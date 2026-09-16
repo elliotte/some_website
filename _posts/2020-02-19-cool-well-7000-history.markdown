@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This 7,000-year-old well is the oldest wooden structure ever discovered"
-date:   2020-02-18
+date:   2020-02-19
 categories: history science cool
 video: false
 ---

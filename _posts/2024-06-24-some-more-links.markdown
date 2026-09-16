@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Again list more.. hacking and other.."
-date:   2024-04-24
-categories: code software security hacking networking history solar politics water
+title:  "Hacking millions of modems, SSH honeypots, and TCP hijacking"
+date:   2024-06-24
+categories: hacking security networking code
 video: false
 ---
 

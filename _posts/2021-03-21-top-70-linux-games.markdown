@@ -2,7 +2,7 @@
 layout: post
 title:  "Out of the top 50 games, 70% work on linux now"
 date:   2021-03-26
-categories: code software gaming fun linux
+categories: code software fun tech
 video: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updating more stuff...."
+title:  "I2P, laser weeding robots, and an open-source Transport Tycoon clone"
 date:   2024-12-29
-categories: interesting updates code software security
+categories: privacy open-source farming code fun
 video: false
 ---
 

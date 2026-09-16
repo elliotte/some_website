@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "More hacking and other software.."
+title:  "Open-source ngrok, a tiny Nintendo Wii mod, and Everest letters"
 date:   2024-04-24
-categories: code software security hacking networking history solar politics water
+categories: code hacking hardware history technology
 video: false
 ---
 

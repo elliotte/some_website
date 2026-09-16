@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Experimenting with Bluetooth in JavaScript apps on the web, in hybrid apps and React Native"
-date:   2019-02-17 16:24:28 +0100
+date:   2019-02-20 16:24:28 +0100
 categories: technology code software
 vid_link: false
 ---

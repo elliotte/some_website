@@ -2,7 +2,7 @@
 layout: post
 title:  "Dr.Doom On Gold.. 'The White Swans Of 2020'"
 date:   2020-02-19
-categories: business economics investing forecasting
+categories: business economics investing politics world
 video: false
 ---
 

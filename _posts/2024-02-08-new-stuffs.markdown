@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "XXXXX"
-date:   2024-02-01
-categories: code software security hacking networking history solar politics water
+title:  "A search engine in 80 lines, gravity batteries and quantum computing"
+date:   2024-02-08
+categories: code science technology hardware ruby
 video: false
 ---
 
