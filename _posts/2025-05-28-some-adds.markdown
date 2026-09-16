@@ -1,16 +1,27 @@
 ---
 layout: post
-title:  "A few adds"
-date:   2025-05-24
-categories: tech code science culture history geo hacking
+title:  "Kimsuky's hack leak, cheap self-hosting, and steel-strength wood"
+date:   2025-05-28
+categories: hacking security technology tools history
 video: false
 ---
+
+Easy git server: https://maurycyz.com/misc/easy_git/
+
+Old movie Posters: https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search/searchterm/Western%20films/field/genre/mode/exact/conn/and
+
+https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55mo-server/
 
 http://www.textfiles.com/uploads/thecipher.txt
 https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/
 
 https://github.com/jaypyles/Scraperr
 https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md
+
+Story of atomic airplane: https://whatisnuclear.com/the-story-of-the-atomic-airplane.html
+
+Oldeest transaction in the world: https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/
+Inside north korea hack: https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/
 
 https://habr.com/en/articles/905812/
 https://idiallo.com/blog/zipbomb-protection
@@ -26,9 +37,17 @@ https://technistuff.com/history-from-space/
 https://university.apisec.ai/login
 https://www.historytoday.com/archive/behind-times/ghosts-gaelic
 https://www.youtube.com/watch?v=0aScMQIp9KA
+https://lwn.net/Articles/1034121/
 
 https://www.zerohedge.com/geopolitical/houthis-claim-3rd-mq-9-reaper-drone-downing-ten-days
 https://www.zerohedge.com/geopolitical/spanish-power-outage-catastrophe-created-political-design-warning-world
 https://www.zerohedge.com/sponsored-post/playing-fire-mises-institute-film-federal-reserve
 https://www.zerohedge.com/technology/decade-plus-successes-spacex-and-us-space-programs
 https://www.zerohedge.com/food/green-new-steal-meets-drill-baby-drill-farmland-caught-crosshairs
+https://www.zerohedge.com/markets/every-fkin-day-bro-glimpse-life-hedge-fund-manager-under-trump-20
+https://www.zerohedge.com/crypto/how-ethereum-treasury-companies-could-spark-defi-summer-20
+https://www.zerohedge.com/political/huge-mellon-donation-banking-heir-revealed-130m-private-benefactor-pay-troops
+
+Funny article about life of a hedge fund CIO under trump: https://www.zerohedge.com/markets/every-fkin-day-bro-glimpse-life-hedge-fund-manager-under-trump-20
+
+Sto

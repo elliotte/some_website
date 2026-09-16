@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hackernews post on good free content by category"
-date:   2022-07-15
-categories: economics money waste farming cooking
+date:   2022-07-26
+categories: learning science hardware fun
 video: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "50 years bretton woods, 14th centuary monk, index scientific papers, french president history, post capital times, wealth tax, trade resilience, war on science"
-date:   2021-10-26
+date:   2021-11-11
 categories: hacking code politics software
 video: false
 ---

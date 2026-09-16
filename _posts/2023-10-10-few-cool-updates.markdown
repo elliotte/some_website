@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updates on code, hacking, intersting stuff, randoms"
-date:   2023-07-11
-categories: code software security hacking networking history solar politics water
+title:  "WiFi cantennas, the HTTP/2 Rapid Reset DDoS, and Pythagoras history"
+date:   2023-10-10
+categories: hacking networking security science history
 video: false
 ---
 

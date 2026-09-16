@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We Are Entering The Age Of Full John Galt"
-date:   2021-07-14
+date:   2021-07-16
 categories: business economics money politics news
 video: false
 ---

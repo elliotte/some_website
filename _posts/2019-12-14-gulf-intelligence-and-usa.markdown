@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Dread - White House veterens help create a Gulf monarchy survellience unit"
-date:   2019-12-10
+date:   2019-12-14
 categories: politcs news military governments
 video: false
 ---

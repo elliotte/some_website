@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open banking technology API - the dev company docs"
-date:   2018-12-10 16:24:28 +0100
+date:   2018-12-11 16:24:28 +0100
 categories: ruby code software dev serverless web
 vid_link: false
 ---

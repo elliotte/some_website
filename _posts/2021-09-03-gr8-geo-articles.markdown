@@ -2,7 +2,7 @@
 layout: post
 title:  "Quantative brain-washing, Stakeholder Capitalism"
 date:   2021-09-03
-categories: business economics politics corruption news world geo
+categories: business economics politics corruption china
 video: false
 ---
 

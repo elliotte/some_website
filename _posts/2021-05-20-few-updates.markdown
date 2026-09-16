@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary of news articles again"
+title:  "Cancel culture, government experiments and Colonial Pipeline"
 date:   2021-05-27
-categories: summary news life articles politics world
+categories: politics news world government life
 video: false
 ---
 

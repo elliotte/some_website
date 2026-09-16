@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Quantative brain-washing, Stakeholder Capitalism"
+title:  "18th-century pandemic advice, Greek and Roman alternative facts"
 date:   2021-09-03
-categories: business economics politics corruption news world geo
+categories: history fun learning science
 video: false
 ---
 

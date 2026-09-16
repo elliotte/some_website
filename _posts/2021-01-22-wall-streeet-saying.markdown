@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goldman Sachs - Consumption and addiciton"
-date:   2021-01-19
+date:   2021-01-22
 categories:  business economics politics life power corruption.
 video: false
 ---

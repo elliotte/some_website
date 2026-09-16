@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ultra rich and supercar makers smashed it in 2020"
-date:   2021-03-26
+date:   2021-03-27
 categories: business money corruption economics banking disaster
 video: false
 ---

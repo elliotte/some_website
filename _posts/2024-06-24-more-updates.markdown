@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Again list more.. hacking and other.."
-date:   2024-04-24
-categories: code software security hacking networking history solar politics water
+title:  "CVE tracking tools, hedge funds buying tech, and Pi 5 vs N100"
+date:   2024-06-24
+categories: hacking security code money technology
 video: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updating more...."
-date:   2024-08-06
-categories: code software security hacking networking history solar politics water
+title:  "Salesforce's sales playbook, a Chrome RCE, and the JWST cosmology row"
+date:   2024-08-15
+categories: business hacking security science uk
 video: false
 ---
 

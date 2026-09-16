@@ -2,7 +2,7 @@
 layout: post
 title:  "UK Supreme Court Judge Slams Totalitarian COVID Control Freaks In Government"
 date:   2020-11-24
-categories: politics power corruption life
+categories: politics power corruption life uk
 video: false
 ---
 

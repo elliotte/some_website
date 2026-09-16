@@ -2,7 +2,7 @@
 layout: post
 title:  "Retool - raised 50M in two years"
 date:   2020-10-20
-categories: code technology software programming
+categories: code technology software programming startups
 video: false
 ---
 

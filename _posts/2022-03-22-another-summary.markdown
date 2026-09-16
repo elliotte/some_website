@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "xxxxxxxxxxxxxxx"
+title:  "Starbucks monetary superpower, open AWS databases, Poison Papers"
 date:   2022-03-22
-categories: xxxxxx 
+categories: money security politics world history
 video: false
 ---
 

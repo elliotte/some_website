@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afghan explained, Russia defends Russia, China weaker than you think, Nordics are not Big Govt high corp tac rate countries, vaccinated most in hospital, 300Bn semi-conductor machines"
-date:   2021-07-30
+date:   2021-08-31
 categories: news world politics business corruption tax covid
 video: false
 ---

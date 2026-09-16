@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UK Government Approves Net Censorship – British Free Speech Dies"
-date:   2020-02-14
+date:   2020-02-17
 categories: business politics web internet government law
 video: false
 ---

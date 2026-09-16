@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Standing At A Crossroads"
-date:   2020-09-01 
+date:   2020-09-03 
 categories: business economics life politics trading
 video: false
 ---

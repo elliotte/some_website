@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Humane Technology - Ledger of Harms (counting cost of bad technology and social media"
-date:   2021-09-13
+date:   2021-09-20
 categories: social politics learning fun good knowledge community
 video: false
 ---

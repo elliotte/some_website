@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life as a roman lawyer and networking rack article"
-date:   2023-07-11
+date:   2023-08-11
 categories: code software security hacking networking
 video: false
 ---

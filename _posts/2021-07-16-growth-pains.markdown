@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growth Gains, Value Pains As Yields Plunge, Dollar Jumps, Crude Dumps"
-date:   2021-07-14
+date:   2021-07-16
 categories: business economics money politics news
 video: false
 ---

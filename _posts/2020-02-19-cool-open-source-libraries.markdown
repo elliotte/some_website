@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cool open source data finds on airplanes and biology"
-date:   2020-02-18
+date:   2020-02-19
 categories: data code software cool business
 video: false
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary of links - China Reform, Saudi Ex-Spymaster, Soil Science, 2nd Amendment, Canada, Alan Turing, Javascript Loop and more"
+title:  "NSO Group hacked, Pegasus spyware, Chrome exploits"
 date:   2021-07-29
-categories: business science code learning summary money law history
+categories: security hacking technology privacy news
 video: false
 ---
 

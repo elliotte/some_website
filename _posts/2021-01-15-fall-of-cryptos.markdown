@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Bit Short: Inside Crypto’s Doomsday Machine"
-date:   2021-01-12
+date:   2021-01-15
 categories: history economics business politics bitcoin news
 video: false
 ---

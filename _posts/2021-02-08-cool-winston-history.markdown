@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Is Winston Churchill Part Of The American Political Divide?"
-date:   2021-02-07
+date:   2021-02-08
 categories: history britain uk usa politics ware fun learning
 video: false
 ---

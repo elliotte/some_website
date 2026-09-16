@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "100 LOC Ruby forward proxy using only standard libraries."
+title:  "bladeRF-wiphy: software-defined 802.11 access point"
 date:   2021-01-18
-categories: code ruby programming software web proxy server
+categories: code hardware networking open-source programming
 video: false
 ---
 

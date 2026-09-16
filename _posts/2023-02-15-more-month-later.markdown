@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TBC"
-date:   2023-01-16
-categories: economics money waste farming cooking
+title:  "GPT from scratch, Wolfram on ChatGPT, Nigeria's oil thieves"
+date:   2023-02-15
+categories: technology science world history
 video: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dr.Doom On Gold.. 'The White Swans Of 2020'"
+title:  "Swiss digital currency and tokenized equity roadmap"
 date:   2020-02-19
-categories: business economics investing forecasting
+categories: business economics money blockchain finance
 video: false
 ---
 

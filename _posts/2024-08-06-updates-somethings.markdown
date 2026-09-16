@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updating...."
+title:  "XSS writeups, Angular template injection, and Ryanair dark patterns"
 date:   2024-08-06
-categories: code software security hacking networking history solar politics water
+categories: hacking security code web business
 video: false
 ---
 

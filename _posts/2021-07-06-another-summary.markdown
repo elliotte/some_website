@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary - business and fun articles"
+title:  "Amazon brand hijacking, GitHub Copilot and tax evasion"
 date:   2021-05-27
-categories: summary business history cool fun economics
+categories: business tax code history money
 video: false
 ---
 

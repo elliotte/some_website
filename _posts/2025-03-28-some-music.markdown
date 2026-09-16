@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A few Soulection streams"
-date:   2025-03-24
+date:   2025-03-28
 categories: music soul house beach vibes dj 
 video: false
 ---

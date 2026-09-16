@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nice new decentralized tools (chat app & drive storage)"
-date:   2021-01-08
+date:   2021-01-10
 categories: code software tools decentralized
 video: false
 ---

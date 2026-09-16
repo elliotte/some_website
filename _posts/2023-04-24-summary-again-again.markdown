@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TBC"
+title:  "A solar-powered blog, the Archimedes Palimpsest and DIY computing"
 date:   2023-04-24
-categories: economics money waste farming cooking
+categories: solar hacking history technology open-source
 video: false
 ---
 

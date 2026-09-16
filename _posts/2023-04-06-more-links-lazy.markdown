@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TBC again"
+title:  "Bank of England war financing, bank bailouts and LIDAR mapping"
 date:   2023-04-06
-categories: economics money waste farming cooking
+categories: economics money history banking science
 video: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Summary of code and fun articles again"
+title:  "Web Components, RSA hack fallout and Vietnam War photos"
 date:   2021-05-27
-categories: summary news code programming web cool learning fun science
+categories: code web security science history fun
 video: false
 ---
 

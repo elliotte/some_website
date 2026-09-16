@@ -90,6 +90,7 @@ Some nice sources:
 - [n-o-d-e.net](//n-o-d-e.net/index.html) - awesomeness.
 - [Anonymous Search Engine](https://www.tuxdex.com/)
 - [The Beginner's Guide to Aeronautics ](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
+- [Mostly electronics and software, but occasionally chemistry and photography](https://maurycyz.com)
 
 List of cool movies/documentaries:
 
@@ -165,8 +166,12 @@ List of cool movies/documentaries:
 - [Once upone a time in Mexico]()
 - [Righteous kill]()
 - [State of Grace](https://www.imdb.com/title/tt0100685/)
-
-
+- [Number 24](https://en.wikipedia.org/wiki/Number_24_(film))
+- [Edge of War](https://www.imdb.com/title/tt7475578/)
+- [Gallant Hours]()
+- [Then There Were Giants]()
+- [File Of The Golden Goose]()
+- [Local Her0]()
 
 - South Park | Simpsons | Family Guy 
 
